@@ -1,0 +1,284 @@
+Estalas de distância e de tamanho no Universo
+==============================================
+
+* Livros
+    - Astronomy today (Chaisson & McMillan)
+* Site
+    - http://www.astro.iag.usp.br/~aga0215noturno/
+
+* Estrelas são so componentes mais básicos do Universo
+* O Uniberso observável contém tantas estrelas quanto grãos de
+  areia somando todas as praias da Terra.
+
+* Constelação de Órion
+    - Estrelas mais jovens e quentes que o Sol, em geral têm um
+      tom azulado.
+    - Nebulosas (mais difusas) são regiões de gás em que há formação
+      de estrelas, iluminadas por estrelas jovens recém formadas
+      (e que, por terem muita energia, ionizam o gás).
+      - Essas regiões, com gás mais denso, são conhecidos como
+        "bersários estelares".
+    - Beltegeuse, na parte superior do corpo da constelação de
+      Órion, é uma gigante  vermelha (velha e massiva).
+      - Esses nomes são dados conforme a evolução das estrelas.
+      - O nosso Sol, e mesmo as estrelas mais jovens, passarão pela
+        fase de serem gigantes vermelhas.
+    - Se observarmos a nebulosa de Órion em radiação infravermelha,
+      é possível observar um conjunto de estrelas formadas, proto-
+      -estrelas (em formação), e o formato mais adequado da nebulosa.
+      - Esse tipo de observação foi feita por telescópios como o
+        Spitzer Space Telescope, que fica ~500km da Terra, voltado
+        a observar na faixa infravermelha e fica orbitando o planeta
+        para captar a radiação filtrada pela atmosfera.
+      - Stratosphery for IR Astronomy (Sofia), que fica em um avião,
+        também é usado para observar planetas extrasolares e nebulosas.
+
+* Nosso lugar no espaço
+    - Terra
+        - 15.000 km de diâmetro (aproximadamente).
+        - Não ocupamos nenhum lugar privilegiado do Universo.
+        - A Terra é um planeta rochoso comum, um dos 8 planetas que
+          prbitam uma estrela comum chamada Sol, que se localiza perto
+          da borda de um enorme conjunto de estrelas que se chama
+          Via Láctea, que é uma estre bilhões de outras galáxias
+          que existem no Universo observável.
+    - Sol
+        - ~100 vezes o diâmetro da Terra
+        - Bola de gás formada essencialmente por Hidrogênio e Hélio.
+        - Veremos, mais à frente, as etapas da evolução do Sol, e quais
+          os elementos que podem ser formados no núcleo da estrela.
+    - Galáxias
+        - Uma galáxia típica contém 1 trilhão de estrelas (10^12).
+        - O tamanho de uma galáxia espiral típica é de aproximadamente
+          1000 quadrilhões de quilômetros, ou 100.000 anos-luz.
+          - FOV: field of view (linha de visão) de um objeto cósmico.
+    - Aglomerado de galáxias
+        - Aglomerados de galáxias podem conter alguns milhares de
+          galáxias, que são ligados gravitacionalmente uns com os
+          outros e interagem girando em torno de um mesmo centro
+          de massa.
+
+* Definições:
+    - Universo: espaço + tempo + energia + matéria.
+        - O Universo é definido por uma coordenada quadridimensional
+          de 3 dimensões de espaço mais uma dimensão de tempo.
+        - Ele é formado por uma combinação de matéria e diferentes
+          tipos de energia.
+    - Astronomia ou Astrofísica => estudo do Universo.
+        - A Astrofísica, principalmente, estuda o Universo considerando
+          todos os seus componentes.
+
+* Escalas
+    - As escalas são muito grandes
+        - Podem ir desde planetas, sistemas solares, aglomerados
+          locais estelares, galáxias, grupos locais de galáxias
+          e a estrutura cósmica de larga escala.
+
+    - Temos duas grandes unidades de distância comumente usadas:
+        - Anos-luz (mais usada em divulgação científica não-profissional)
+            1 ano-luz = distância que a luz percorre em 1 ano,
+            ~ 10 trilhões de km.
+        - Parsecs (mais usada cientificamente)
+            ~3,6 anos luz (definição será vista mais à frente).
+
+* Paralaxe
+    - O efeito de paralaxe é usado para medir distâncias.
+    - Essa medida pode ser feita, informalmente, usando a posição
+      relativa do objeto mais próximo em relação aos mais distantes,
+      de acordo com o ângulo observado.
+    - A paralaxe diminui quanto mais distante estiver o objeto mais
+      próximo.
+
+* Unidades de paralaxe
+    - Medida em GRAUS, MINUTOS e SEGUNDOS de ARCO (º ' '').
+    - 1 circunferência = 360º de arco.
+      1 grau de arco = 60 minutos de arco.
+      1 minuto de arco = 60 segundos de arco.
+    - Em geral, a Lua estará em graus de arco, objetos mais próximos
+      em minutos e outras estrelas em segundo.
+
+    - Paralaxe geométrica (distâncias dentro do sistema solar)
+        - Maior linha de base na Terra = seu diâmetro.
+        - O deslocamento de um objeto, ao ser observado de diferentes
+          pontos de observação, é chamado de *paralaxe*, e é usada
+          para calcular as distâncias.
+        - A paralaxe é obtida obtendo os graus / minutos / segundos
+          de acordo com a esfera celeste observada da Terra.
+        - Usamos simples semelhança de triângulos para calcular a
+          paralaxe geométrica, tendo como linha de base o diâmetro
+          da Terra.
+        - Usar o diâmetro é restrito até calcular 1 hora-luz
+          (~1.5 x 10^8 km)
+        - Chamamos da metade da paralaxe de *ângulo paralático p*.
+
+        - Usamos a geometria euclidiana para calcular a distância.
+            - tan p =  R_terra (= baseline / 2)
+                      --------------------------
+                      distância (Terra - Objeto)
+
+    - Paralaxe estelar
+        - Estende-se a linha de base para o raio médido da órbita da
+          Terra em torno do Sol (média do afélio e periélio).
+
+        - tan p =           1 UA
+                  -------------------------
+                  distância (Sol - estrela)
+
+        - Unidade astronômica = 1UA = distância da Terra ao Sol.
+        - Se p < 4º, podemos aproximar (tan p) = p em radianos.
+
+        - Se "p" está em radianos, então as unidades da linha de base
+          e distância serão as mesmas (em UAs = 150 milhões de km).
+
+        - Definição:
+            1 pc = distância sol-estrela se a paralaxe medida for
+                   de 1'' (1 segundo de arco).
+
+        - D(pc) = 1 / paralaxe('')
+
+        - 1'' = 2π/360º * 1/3600º = 4,848 x 10^-6 → 1 pc = 206265 UA
+          1 pc ~ 2.09 x 10^13 km ~ 2,06 x 10^5 UA ~ 3.26 anos-luz
+
+        - A paralaxe estelar ainda é limitada às vizinhanças do
+          nossos sistema solar. Para calcular a distância de objetos
+          mais distantes (como outras galáxias), é necessário usar
+          técnicas diferentes.
+          - As determinações de objetos mais distantes são indiretas,
+            mas baseadas em distâncias a objetos mais próximos obtidas
+            por paralaxes. Erros nessas medidas "próximas" fazem com
+            que as distâncias mais longas fiquem incorretas.
+          - Para que a paralaxe seja bem medida, em geral é necessário
+            utilizar telescópios espaciais, porque há menos turbulência
+            (distorções nas imagens causadas por distorções
+            atmosférias).
+
+* Escalas
+    - O senso comum: mm -> m -> km
+    - O que escapa do senso comum: muito grande (UA, pc, ano-luz).
+
+* Distâncias no Sistema Solar
+    - Historicamente: Aristarco, ~300 AC
+                      Leis de Kepler (século XVII)
+        - Utilizou a Lua em quarto crescente (ou quarto minguante)
+        - Calculou o ângulo 2*α entre a fase crescente / minguante,
+          com relação ao Sol, a partir do ciclo lunar (~29,5 dias)
+          e entre as fases minguante-crescente (~15,25 dias).
+
+                             360º      29.5
+                            ------ =  -----
+                             2*α      14.25
+
+        - Logo: cos α = distância(Terra - Lua)
+                        ----------------------
+                        distância(Terra - Sol)
+        - Ele encontrou que d(Terra - Sol) ~ 20*d(Terra - Lua).
+          O método foi muito bem deduzido, mas o valor correto
+          era que d(Terra - Sol) ~ 400*d(Terra - Lua).
+
+    - Modernamente: Radar
+        - Fazemos uma reflexão com os corpos, e usamos a velocidade
+          da luz para isso.
+
+        - Órbita dos planetas
+
+            Sol Mercúrio Vênus Terra Marte Júpiter
+             0     58     108   150    228   778    km
+             0    0.39    0.72   1    1.52   5.2    UA
+
+            Saturno Urano Netuno Plutão
+             1427    2871  4497   5913   km
+              9.5    19.2  30.1   39.4   UA
+
+* DIâmetro da Terra
+    - Erastótenes, em ~276 AC
+    - NO Egito, de Alexandria a Siena diferença de 7 graus no ângulo
+      do Sol ao meio-dia
+    - Distância Alexandria-Siena = 780 km
+
+                    7.A2            780 km
+                    ---  =  -----------------------
+                    360º    circunferência da Terra
+
+    - Ele encontrou que o diâmetro da Terra é ~12.400 km
+
+    - O valor correto é 12.756 km (em um satélite geodésico)
+
+* Medindo o Sol e os Planetas
+    - Distância ao Sol: leis de Kepler e Newton na escala do sistema
+      solar dada por estimativa da distância por radar de Vênus
+      (~2.3 min)
+    - Raio do Sol e planetas: diâmetro angular
+        - Com o diâmetro angular (em graus / minutos / segundos de arco)
+          e a distância, obtemos o diâmetro do planeta.
+
+                         diâmetro       diâmetro angular
+                      -------------- = ------------------
+                      2π * distância         360º
+
+* Fronteira externa do sistema solar: heliopause, a cerca de
+  1 ano-luz do Sol.
+    - 1 ano-luz = 204.000 UA = 9.45 *10^12 km
+
+* Estrelas
+    - Determinação do tamanho: Luminosidade ∝ raio² * temperatura^4
+
+    - Dimensões típicas
+        - Anã (Sol):                      700.000 km
+        - Gigante (Pollux):             7.000.000 km
+        - Supergigante (Betelgeuse):  441.000.000 km
+
+* Via Láctea
+    - Distâncias típicas entre as estrelas: ~anos-luz
+    - Estrelas mais próximas:
+        - Alfa Centauri: 4.36 anos-luz (1.34 pc)
+        - Próxima centauri (mais próxima do sistema
+          de alfa-centauri): 4.22 anos-luz (1.29 pc)
+    - Estrelas isoladas são raras: são comuns sistemas binários ou
+      com muito mais estrelas.
+
+    - Forma: espiral, com disco, braços e bojo (central)
+    - Diâmetro: ~120.000 anos-luz
+    - Espessura do disco: ~5.000 anos-luz
+    - Número de estrelas: ~400 bilhões
+        - Estimada segundo uma certa distribuição ao longo da galáxia.
+    - Massa: 6x10^11 massas solares
+        - Matéria luminosa (estrelas, gás) + matéria escura.
+        - Usamos a massa do Sol (1.99 x 10^30 kg) como unidade-padrão
+          de massa nessas medidas astronômicas.
+
+    - Tipos de galáxias: elípticas espirais e irregulares
+        - Exemplo de irregulares: nuvens de magalhães
+    - Elípticas
+        - gigantes: diâmetro de alguns milões de anos-luz e cerca
+                    de 1 trilhão de estrelas
+        - anãs: diâmetro de ~3.000 anos-luz com poucos milhões de
+                estrelas.
+
+* Aglomerados de galáxias
+    - O grupo local: cerca de 25 galáxias visíveis, sendo 2 grandes
+      espirais, Via Láctea e Andrômeda (a 2.5 milhões de anos-luz
+      de nós), as demais são anãs, irregulares e uma espiral menor
+      (M33).
+      - As partes mais escuras, em geral, aparecem mais escuras.
+  - Exemplos: aglomerado de virgem, aglomerado de coma
+
+* Superaglomerados
+    - Associações de aglomerados gravitacionalmente ligados
+    - Sem forma definida
+    - O superaglomerado local:
+        100 milhões de anos-luz de diâmetro
+        10^15 massas solares
+        cerca de 2200 galáxias (pode haver mais, não observáveis)
+    - Hydra-Centaurus: ~150.000 galáxias
+
+    - Os aglomarados, unidos em superaglomerados, formam filamentos,
+      com imensosespaços vazios entre eles. Isto define a estrutura
+      do universo em larga escala.
+
+* Universo visível
+    - Escala de 14 x 10^9 anos-luz
+    -Número de superaglomerados = 10 milhões
+    - Número de grupos = 25 bilhões
+    - Numero de faláxias grandes e luminosas = 350 bilhões
+    - Número de faláxias anães = 7 trilões
+    - Número de estrelas = 30 bilhões de trilhões (3 x 10^22)
