@@ -1,0 +1,223 @@
+Observações e orientação no céu
+================================
+
+* Aglomerados de estrelas
+    - Proxima (ex: alpha centauri)
+    - Aglomerado globular (alta concentração de estrelas)
+    - Aglomerado aberto
+
+    - Os aglomerados são agrupamentos de estrelas que estão
+      gravitacionalmente ligados.
+
+* Definição de constelações são úteis na orientação no céu
+    - Diferentes culturas tendem a separar o mesmo conjunto de estrelas
+      como uma mesma constelação, mas cada uma delas associa figuras
+      bem diferentes e esse mesmo agrupamento de estrelas.
+    - Em geral, utilizamos a nomenclatura grega como definição das
+      constelações no mundo ocidental.
+
+* Tudo o que vemos é projetado na esfera celeste. As constelaçãoes são
+  um exemplo disso.
+
+* Constelações
+    - O que são? São agrupamentos aparentes de estrelas angularmente
+      próximas. Estrelas de uma mesma constelação podem estar MUITO
+      DISTANTES umas das outras, porém angularmente próximas na esfera
+      celeste.
+    - Quantas são? 88, de acordo com a União Astronômica Internacional.
+    - Sempre foram as mesmas? Não, caada povo e cultura diferentes
+      definiu um conjunto de constelações, com formas e nomes diferentes
+      e em número diferente.
+    - Quantas estrelas tem em cada constelação? A questão não tem
+      sentido já que as constelações apenas delimitam regiões na esfera
+      celeste. Contendo-se até os objtos mais fracos, na direção de cada
+      constelação pode haver biljões de estrelas da nossa galáxia, mais
+      bilhões de estrelas de outras galáxias.
+
+    - NOTAR: quanto um astrônomo diz "a galáxia XX está an constelação
+      do Touro", isto significa que a mesma está na direção desta
+      constelação. Não há nenhuma relação da direção com a distância.
+
+* Podemos definir o equador celeste como sendo a projeção do equador
+  terrestre na esfera celeste. A mesma definição vale para o polo
+  norte e polo sul. Como a esfera celeste gira em torno do planeta,
+  também podemos apontar um eixo de rotação.
+    - No polo norte do planeta, a estrela polaris é uma referência
+      próxima ao eixo de rotação no norte. No sul, nenhuma estrela
+      é tão brilhante e serve de referência.
+    - As estrelas que giram em torno das estrela polaris são chamadas
+      de circumpolares. Próximo ao Equador, vemos as estrelas nascendo
+      e se pondo.
+    - A Terra gira em torno do seu próprio eixo, e o movimento
+      aparente das estrelas é de leste para oeste (como o Sol).
+
+* Linha de visão no céu noturno
+    - A Terra gira em torno do Sol, e as constelações visíveis
+      variam segundo a época do ano.
+
+* Localização de estrelas no céu são dadas em termos de posições e
+  separações angulares.
+    - O tamanho angular de um objeto depende do seu tamanho verdadeiro e
+      de sua distância.
+    - Ex: Lua: 30'. Com uma distância 2 vezes maior, 15'
+
+    - Medições angulares podem ser feitas com as mãoes! Obtém-se posição
+      e separação das estrelas no céu.
+    - Não esquecer: ângulo pequeno entre dois objetos NÃO é o mesmo
+      que distância pequena entre os mesmos! O que vemos está SEMPRE
+      projetado na esfera celeste.
+
+* Sistemas de coordenadas celestiais
+    - O modo mais simples de se localizar estrelas a olho nu é
+      especificar a constelação que estão e classificá-las por ordem
+      de brilho (α = mais brilhante, β = segunda mais brilhante, etc).
+
+    - Utilidade
+        - Localizar um objeto no céu
+        - Registrar a localização de um objeto desconhedido.
+
+* Pontos cardeais
+    - Sistema mais básico de coordenação
+    - O Sol não nasce sempre no mesmo ponto na direção Leste
+    - O Sol nasce em diferentes pontos do horizonte dependendo
+      da época do ano. O Leste não é definido pela posição em
+      que o Sol nasce.
+
+    - Definição dos pontos cardeais
+        - Varia de acordo com o observador, sua latitude e
+          longitude no planeta.
+        - Podemos usar um Gnômon (relógio de sol simples), seguindo
+          o passo a passo:
+            1. Definição do meridiano local
+              - Primeiro, colocamos uma estaca no chão.
+              - Em seguida, precisamos determinar o meridiano local,
+                por meio da sombra mínima.
+              - A sombra mínima é vista como "meridiano local",
+                a direção da sombra mínima.
+            2. Pontos cardeais
+              - Traçar uma reta perpendicular à reta do meridiano,
+                no ponto onde foi fincada a vareta. Essa reta
+                indicará os pontos Leste e Oeste (mão direita
+                indicará o leste).
+
+    - Lembrando: os pontos cardeais são definidos no solo do observador,
+      ou seja, definidos num ponto tangente à superfície da Terra.
+
+    - Variação do aspecto no céu
+        - Hemisfério Norte
+            - Olhando para o Norte, vemos um movimento de nascer e por
+              das estrelas, no sentido anti-horário.
+            - Olhando para o Sul, vemos um movimento quase cirumpolar,
+              no sentido horário.
+        - Hemisfério Sul
+            - Olhando pra o Norte, vemos um movimento quase circulpolar,
+              no sentido anti-horário. A estrela polaris fica quase
+              no eixo de rotação, e as outras estrelas giram
+              próximas a ela.
+            - Olhando para o Sul, vemos um movimento de nascer e por
+              das estrelas, no sentido horário.
+
+* Sistema Local de Coordenadas
+    - Sistema Altazimutal (o mais simples, local)
+        - Sistema horizontal ou altazimutal de coordenadas é um sistema
+          de coordenadas celestes que tem como plano fundamental o
+          HORIZONTE do observador.
+        - O horizonte é definido como a linha aparente ao longo da qual,
+          em lugares abertos e planos, observamos que o céu parece tocar
+          a terra ou o mar. Pela definição, pode considerá-lo mesmo em
+          áreas não planas, embora não se possa observar. Em um local
+          plano, uma pessoa pode enxergar um objeto no chão até
+          aproximadamente 5 km de distância. A partir deste ponto o
+          objeto estará "atrás" do horizonte.
+
+        - Sistema local. Temos o zênite (ponto mais alto no céu),
+          nadir (ponto oposto ao zênite) e o horizonte.
+        - Dada uma estrela, podemos pegar o MERIDIANO da estrela,
+          que é a projeção da perpendicular da estrela até o chão
+          na esfera celeste.
+        - Para as coordenadas azimutais, usamos os seguintes valores:
+            - A = Azimute (0º < A < 360º), é um ângulo medido no
+              plano horizontal que começa no ponto cardeal Norte
+              e gira para LEste até interceptar o meridiano
+              celeste do astro.
+            - h = altura (-90º < h < +90º), é um ângulo medido
+              no meridiano (círculo vertical) do astro, que inicia no
+              plano do horizonte e vai até o astro.
+
+        - Podemos trocar a altura 'h' por 'z', a distância zenital:
+            - z = distância zenital (0º < z < 180º): é um ângulo
+              medido no meridiano (círculo vertical) do astro, que
+              inicia no zênite e vai até o astro.
+
+        - As coordenadas azimutais podem ser dadas com com
+          (A,h) ou (A,z). Elas são equivalentes e, em geral,
+          h + z = 90º.
+
+        - Vantagens:
+            - É muito simles e intuitio de aprender / ensinar.
+            - Porém, devido à rotação da Terrak as coordenadas dos
+              astros
+            - Observadores situados em distintos locais terão distindos
+              Planos horizontais; 
+
+        - Sistema equatorial
+            - É definido projetando-se no céu as as linhas de referência
+              terrestres; equador, meridianos, paralelos e pólos.
+
+            - Latitude φ e Longitude λ
+                180º < λ < +180º. Caso a localidade esteja no Oeste do
+                meridiano de Greenwhich, põe-se um sinal negativo na
+                frente da longitude. Ao invés de usar o sinal, pode-se
+                também usar as letras E e W para indicar Leste e Oeste,
+                respecticamente.
+
+            - Sistema Equatorial de Coordenadas
+                - δ = declinação. A declinação é em tudo análoga à
+                  latitude na superfície da Terra. É um ângulo que
+                  inicia no equador celeste e vai até o astro
+                  através de um meridiano (chamado círculo horário
+                  nesse contexto).
+                - α = ascensão reta. A ascensão reta é em tudo análoga
+                  à longitude: um ângulo que circula no equador e
+                  vai até o meridiano do astro.
+                - A única diferença é que o zero da ascensão da reta
+                  não é o meridiano de Greewhich, e sim o ponto
+                  onde a trajetória do Sol corta o equador.
+                - O Ponto Venal é a posição do Sol ao cruzar o
+                  o equador celeste em 21 de março. Ou seja, no
+                  equinócio de primavera (hemisfério norte) ou
+                  equinócio de outono (hemisfério sul).
+                    - Essa definição é feita assim para que
+                      a localização seja simples.
+            
+            - Unidades
+                - Ascensão reta (0º <= α < 360º). Cresce para leste.
+                - Declinação (-90º <= δ <= 90º).
+                - Cresce para a direção leste (definição em unidades de
+                  h, m, s), com 1 hora = 15º
+                - Conexão com a rotação da Terra, em 24 horas, terra
+                  roda 1 vez = 360º.
+                - 0^h < α < 24^h
+
+            - Vantagens / Desvantagens do sistema equatorial
+                - Desvantagem: não é intuitivo e é mais difícil
+                  de aprender.
+                - Vantagens: desprezando-se as variações do movimento
+                  de rotação da Terra, as coordenadas são fixas na
+                  esfera celeste (não mudam com a rotação da esfera
+                  celeste). Ou seja, as coordenadas são as mesmas,
+                  não importanto a localização do observador na
+                  Terra.              
+
+    - No sistema azimutal, as coordenadas convergem para o zênite
+      do observador. No sistema equatorial, ela converge para os
+      polos norte e sul.
+
+    - Sistema Equatorial Horário de Coordenadas
+        - Variação do mesmo sistema de coordenada, definida em termos
+          do ângulo horário.
+        - AH é a diferença entre o tempo sideral local (TSL= tempo
+          estelar) e a ascensão reta (α) do objeto.
+        - Funciona como uma medida de tempo e cresce para a direção
+          oeste, seguindo o movimento da esfera celeste. O ângulo
+          horário vai do meridiano local até a declinação.
