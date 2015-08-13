@@ -1,0 +1,256 @@
+Movimentos da Terra
+====================
+
+* A Terra faz vários movimentos - rotação (em torno de seu próprio eixo)
+  e translaçao (em torno do Sol).
+
+* Movimento de revolução
+    - A Terra completa uma volta em torno do Sol em um ano.
+    - Variação na distância Terra-Sol é ~2% (órbita ~ circular)
+    - Eclíptica: é o plano da órbita da Terra em torno do Sol.
+      Possui um ângulo de 23.5º em relação ao equador terrestre
+      (ou celeste).
+
+* Movimento de rotaçãoda Terra
+    - Responsável pelo dia e noite
+    - O eixo de rotação não é perpendicular ao plano de órbita
+      (eclítica), que levaria ao dia e noite terem a mesma duração
+      em qualquer parte da Terra. Ele tem 23.5º de inclinação.
+
+* Outras consequências: movimento diurno aparente do Sol
+    - Eclíptica: caminho anual do Sol sobre a esfera celeste (plano
+      da órbita)
+    - O Sol nasce no lado leste e se põe no lado oeste todo dia,
+      devido à rotação da Terra.
+
+* Consequências da rotação da Terra
+    - Mocimento aparente das estrelas (olhando ao Sol)
+    - Rotação no sentido horário.
+
+* Dia: período fundamental
+    - Um dia (período claro) e uma noite (período escuro) definem
+      naturalmente um período de tempo fundamental.
+    - Em média, o  Sol demora o que chamamos de 1 dia = 24 horas,
+      para passar consecuticamente pelo mesmo meridiano local.
+    - Dividindo esse intervalo em 24 partes iguais, temos as
+      horas. Dividindo horas em 60 partes iguais, obtemos os minutos.
+      Da mesma forma, definimos segundos. Daí para frente, a divisão
+      é por dez, definindo décimo, centésimo, etc., de segundo.
+
+* Dia e Noite
+    - Meridiano local = linha norte - sul
+    - Dia solar médio: intervalo entre duas passagens do Sol pelo
+      mesmo meridiano local. Em média (por causa da órbita levemente
+      elíptica do planeta), é 24h.
+
+    - Enquanto dá uma volta em torno de si mesma, a Terra move-se
+      um pouco (0.986 graus) em torno do Sol.
+    - Dia sideral (verdadeiro período de rotação): intervalo médio
+      entre duas passagens de uma estrela pelo meridiano local (23h56m).
+    - 4 minutos de diferença entre o dia solar e o dia sideral (Terra
+      gira ~261º para alcançar o mesmo meridiano).
+
+    - Ângulo Horário (AH) é uma contagem de tempo. Por exemplo, se num
+      dado instante uma estrela que está no meridiano astronômico de um
+      observador, seu ângulo horário medido em graus é AH = 0º.
+    - Um dia depois, após a Terra dar uma volta completa em torno do seu
+      eixo, a estrela estará novamente passado pelo meridiano do
+      observador. Durante estas duas passagens meridianos, o AH da
+      estrela terá variado de 0º a 360º.
+    - Podemos, portanto, definir a hora do dia com base no ângulo
+      horário do astro. Daí o nome! Como o ângulo horário varre o
+      domínio de 0º a 360º em um dia, podemos dizer que qualquer estrela
+      percorre 15º (~360º/23h56m) de ângulo horário por hora. Essa é,
+      na verdade, a velocidade angular de rotação do planeta:
+                          ω ~ 0.2652 rad/h
+
+    - Em meia, o Sol demora 24h para retornar ao mesmo meridiano, pois
+      seu moovimento não é uniforme. A Terra não revoluciona com
+      velocidade constante: ela é mais rápida em janeiro, quando está
+      levemente mais perto do Sol e mais lenta em Julho, quando está
+      levemente mais longe do Sol.
+
+    - O tempo solar médio é o tempo que é medido nos relógios.
+    - Defini-se sobre a Terra 24 fusos horários, com diferença de 1 hora
+      de um para outro. Dentro de cada fuso todos os relógios marcam o
+      mesmo tempo, o tempo solar de uma dada longitude específica.
+
+    - O período em que a Terra gira em torno do Sol é de
+      365.256366 dias = ano Sideeral (período em que a Terra volta
+      mesma posição em relação a uma estrela).
+    - Mas o período usado nos cálculos em nosso calendário é de
+      365.242199 (ano Tropical em que as estações do ano se repetem).
+
+* Rotação e pontos cardeais
+    - Se o eixo fosse perpendicular à eclíptica, o Sol nasceria sempre
+      no Ponto Leste.
+    - Com a inclinação dos eixos de rotação, o Sol nasce no Sul do
+      ponto leste.
+    - Três meses depois, o Sol nasce exatamente no ponto leste. Esses
+      fazem o *equinócio* de março e setembro (definidos justamente
+      por o Sol passar no mesmo período).
+
+* Consequências da inclinação do eixo de rotação e movimento de
+  translação.
+    - Ano das estações
+        - Inclinação dos raios solares implica em estações do ano
+            - Dias mais frios com raios mais inclinados. Dias mais
+              quentes com raios mais perpendiculares.
+        - Ano das estações: 365 dias.
+
+* Motivo das estações
+    - Dependendo da rotação da Terra em sua eclítica, temos o inverno
+      num hemisfério e verão na outra - dependendo de qual região
+      recebe mais iluminação.
+    - Quando a iluminação no Norte e no Sul é igual, temos a primavera
+      ou outono (que, em geral, têm climas mais parecidos).
+
+* Solstícios e Equinócios
+    - Definimos como solstício o período a data com maior extensão de
+      dia ou de noite, em que o Sol fica no Zênite.
+
+* Terra em 22/06 - solstício
+    - No solstício de Junho, podemos definir dois paralelos no
+      planeta: o Trópico de Câncer (sol incide no solo exatamente
+      a pino - zênite), com latitude N23.5º; e o Cículo Polar Antártico
+      (raios solares não alcançam o polo sul, enquanto a iluminação
+      permanece 24h no norte), com laritute S66.5º.
+
+* Terra em 22/12 - solstício
+    - No solstício de Dezembro, podemos definir dois paralelos no
+      planeta: o Trópico de Capricórnio (sol incide no solo exatamente
+      a pino - zênite), com latitude S23.5º; e o Cículo Polar Antártico
+      (raios solares não alcançam o polo sul, enquanto a iluminação
+      permanece 24h no norte), com laritute N66.5º.
+
+* Terra em 23/09 ou 21/03 - equinócios
+    - O Sol fica a pino no equador dos equinócios.
+    - Ambos os polos são iluminados.
+    - Entre os tṕicos, ahverá um momento em dois dias do ano que o Sol
+      estará a pino. Nos trópicos, o Sol a pino só acontecer uma
+      vez por ano no solsticio de verão. Em latitudes maiores do que
+      as dos trópicos, o Sol nunca estará a pino.
+
+    - Equador
+        - Duração do dia e noite iguais em qualquer época. Quanto
+          maior a latitude (NS), maior a duração do dia (verão)
+          ou noite (inverno).
+        - Solstícios: dia de maior duração do dia ou noite em
+          qualquer latitude (exceto equador).
+        - Equinócios: igual duração do dia e noite em qualquer latitude.
+
+* Movimento dos planos fundamentais
+    - Vamos estudar os fenômenos de precessão e mutação.
+
+    - Precessão
+        - Rotação do eixo de rotação da Terra; faz uma colta completa em
+          cerca de 26.000 anos. A Terra roda de forma parecida com um
+          peão.
+        - Como consequência, as estrelas de referência tenderão
+          a se alterar. Polaris (estrela polar atual) tende a
+          ser substituída por Vega (estima-se ~ 14.000 d.C), assim
+          como substituiu Thuban (estrela polar em 3000 a.C).
+        - O eixo de rotação da Terra varre um cone no espaço de ângulo
+          de vértice igual a 23.5º uma vez a cada 26.000 anos.
+
+        - Descoberta
+            - Medida da posição de uma estrela brilhante em anos
+              diferentes.
+            - Timocharis (273 a.C), em Alexandria, e Hiparcos (129 a.C),
+              em Nicea foram os responsáveis por essa conclusão.
+
+            - Timocharis quaria determinar a longitude da estrela α
+              Virgem (qual a posição da estrela em relação ao ponto
+              vernal).
+            - Sabia-se que:
+                1) Durante o eclipse lunar, Sol e Lua estão a 180º
+                2) t_sol = dia da posição do sol no eclipse
+                3) t_γ = dia em que o sol passa pelo ponto vernal
+                   no equinócio d 21/03.
+
+                - Qual a longitude L da estrela?
+                  L = L_sol + A
+                
+                - 1 ano --> 360º
+                  t_sol - t_γ --> L_sol
+
+                - A + B = 180º
+                   Com B medido no eclipse tem-e A.
+                   L = L_sol + A.
+
+              - No final, Timocharis conseguiu que α Virgem tinha
+                L = 172º.
+
+            - Hiparcos fez a medida novamente, obtendo (dessa vez),
+              L = 174º.
+            - Hipóteses
+                - Timocharis errou? Não havia evidência
+                - α Virgem de deslocou 2º em 144 anos? Estrelas
+                  longínquas parecem estar paradas no céu.
+                - O ponto Vernal retrocedeu 2º em 144 anos? Sim! O
+                  cálculo não estava errado, mas sim o ponto de
+                  referência estava se deslocando.
+
+        - A causa física da processão é a ação de um torque provocado
+          pelas forças gravitacionais - essencialmente, do Sol e da Lua,
+          agindo sobre a Terra (precessão luni-solar).
+   
+            1. A obliquidade da eclíptica e da órbita da Lua, ao
+               retor da Terra, não são nulas.
+            2. Terra é achatada nos pólos e bojuda no equador.
+
+        - O palno do bojo equatorial está inclinado a 23.5º en relação à
+          eclíptica e está inclinado 5.1º em relação ao plano de órbita
+          da Terra.
+
+        - As forças gravitacionais da Lua e do Sol (que ficam mais
+          importante nos dois bojos) produzem um torque que tende a
+          achatá-la mais e também alinhar o eixo de rotação da Terra
+          com o da Eclíptica.
+
+        - Torques: Lua ~ 2*Sol ~10^5 planetas
+
+        - Efeito das componentes equatoriais
+            - A diferença entre a força gravitacional e a força
+              centrífuga devido à tranlação da Terra em torno do
+              Sol é o que cria a precessão (que têm direção paralela
+              à eclíptica).
+            - A componente paralela ao plano do Equador faz
+              com que o planeta se alongue na linha do Equador
+              e se achate nos polos.
+            - A componente perpendicular ao plano do Equador
+              cria um torque que tende a empurrar o plano do Equador
+              na direção do plano da eclíptica - e esse torque é o
+              que gera a precessão do eixo de rotação.
+
+        - O torque perpendicular ao momento angular (mocimento de giro)
+          implica na *alteração apenas na direção*, deslocando o eixo
+          de rotação, o deslocamento dos polos celestes, equador
+          e equinócios.
+
+        - Efeitos da precessão luni-solar nos planos fundamentais
+          de referência
+            - α (ascenção reta) e δ (declinação) são ligadas à
+              posição do equinócio vernal. Logo, deve-se fazer a
+              correção da posição do ponto vernal - o que é muito
+              importante para medir a posição estrelas pouco brilhantes.
+            - O ponto vernal se desloca na direção oposta à direção
+              de avanço do Sol.
+            - Em 13.000 anos, quando Vega se tornar a nova estrela
+              polar, o efeito de nutação causará uma inversão do inverno
+              e do verão entre os hemisférios norte e sul.
+
+    - Nutação
+        - Há desvios com relação à precessão geral, de curto período,
+          que também são previsíveis e expressos por fórmulas
+          matemáticas, aos quais chama-se nutação.
+        - Essa correção, de 3ª ordem, são desvios com relação à
+          precessão, na forma de harmônicos.
+        - É a flutuação dos planos de referência em torno de um plano
+          médio. Costuma-se dizer que a notação é a parte oscilatória
+          de pequeno período.
+        - De acordo com o modelo de nutação mais atual, este efeito é
+          composto de 106 termos harmônicos envolvendo senos e cossenos
+          com diferentes frequências, em sua maioria efeitos secundários
+          de torque gravitacional do Sol e da Lua, mais 85 correções
+          devidas a efeitos planetários.
