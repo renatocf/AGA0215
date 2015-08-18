@@ -1,0 +1,401 @@
+Movimentos dos planetas e satélites
+====================================
+
+* Nessa aula, vamos estudar como ocorrem os movimentos dentro do sistema
+  solar, com os planetas e seus satélites.
+
+* Mundo antes dos telescópios
+    - Era possível observer cerca de 6000 estrelas, o Sol, a Lua e 5
+      planetas: Mercúrio, Vênus, Marte, Júpiter e Saturno.
+    - Os planetas eram chamados de "errantes", porque não estavam fixos
+      (como no caso das estrelas).
+    - A Terra não era contada como um planeta.
+
+* O Universo geocêntrico
+    - Sol, Lua e estrelas todos possuiam movimentos simples no céu.
+      (Sempre se movimentavam do leste para o oeste).
+
+    - Os planetas (errantes) moviam-se com respeito às estrelas:
+        - Na maior parte das vezes, possuiam movimento prógrado
+          (oeste-leste em relação às estrelas distantes). Esse não é um
+          movimento durante um dia, mas sim o movimento quando
+          observados ao longo de um ano.
+        - Por vezes (~1 vez por ano), apresentam movimento retrógado
+          (leste-oeste em relação às estrelas fixas). Novamente, é um
+          movimento observado ao longo do ano, e não decorrido da
+          rotação da Terra.
+        - Dependendo da época no ano, também variavam seu brilho e
+          velocidade.
+
+    * Sistema mais simples: sistema geocêntrico (Ptolomeu, séc. II DC)
+        - Planetas inferiores: Merúrio, Vênus
+          (acompanham o movimento do Sol).
+        - Planetas superiores: Marte, Júpiter, Saturno.
+        - Neste sistema, tudo gira em torno da Terra, até o Sol
+          (na 4ª órbita ao longo do Sol)
+        - Esfera das estrelas fixas também gira.
+
+    - Observação 1: Planetas inferiores acompanham o movimento do Sol
+      e fazem duas conjunções: inferior e superior.
+        - Conjunção: planeta e Sol estão na mesma direção na
+          esfera celeste.
+        - Inferior: planeta está mais próximo a Terra e apresenta
+          movimento retrógado (leste-oeste).
+        - Superior: planeta está mais afastado da Terra e apresenta
+          movimento prógrado (oeste-leste).
+
+    - Observação 2: Planetas superiores não acompanham o Sol e possuem
+      movimento retrógrado (leste-oeste) quando estão em posição
+      (diametralmente opostos ao Sol na esfera celeste).
+
+    - Observação 3: Planetas superiores são mais brilhantes em oposição
+      durante o movimento retrógrado. Planetas inferiores são mais
+      brilhantes próximo da conjunção superior.
+
+    - Os sistemas geocêntricos precisavam de explicações mais complexas
+      para as órbitas observadas.
+
+    - Sistema de epiciclos
+        - Proposto por Apolônio no século III a.C.
+        - Possuia dois círculos: um deferente, círculo maior de órbita;
+          e um epiciclo, que era um novo ciclo dentro do outro.
+        - Com epicilos em epicilos, o planeta não gira em torno da
+          Terra em órbitas circulares.
+        - Esse sistema foi utilizado por mais de 1400 anos.
+
+    - (Mais um) problema: posição de Mercúrio / Vênus em relação ao Sol
+        - Se Mercúrio e Vênus girassem em torno da Terra, poderiam ser
+          visstos em qualquer posição. Mas não são vistos  em qualquer
+          posição durante a noite: acompanham sempre o Sol.
+
+* Sistema Híbrido
+    - Heráclides propôs o sitstema híbrido para resolver o problema dos
+      mvimentos de Vênus e Mercúrio (séc. IV a.C.)
+    - Neste sistema, Mercúrio e Vênus giram em torno do Sol, e este
+      em torno da Terra.
+    - Esse sistema ainda continha Epiciclos.
+
+* Modelo Heliocêntrico do sistema solar
+    - O modelo de Nicolau Copérnico (1473-1543): o Sol está no centro do
+      sistema solar. Somente a Lua orbita em torno da Terra; planetas
+      orbitam em torno do Sol.
+
+    - Aristarco de Samos (310-230 a.C.) já tinha proposto que todos os
+      planetas (Terra inclusa) rotavam em torno do Sol (exceto a Lua).
+      Segundo ele, a Terra também girava em torno do seu próprio eixo.
+
+    - Observação 2: Planetas superiores não acompanham o Sol e possuem
+      movimento retrógrado quando estão em oposição (diametralmente
+      opostos ao Sol na esfera celeste).
+
+    - Observação 3: planetas superiores são mais brilhantes em oposição
+      durante o movimento retrógrado.
+
+    - Fundações da revolução copernicana
+        1. A Terra não é o centro do Universo.
+        2. O centro da Terra é o centro da órbita da Lua.
+        3. Todos os planetas revolucionam em torno do Sol.
+        4. As estrelas estão muito mais longe do que o Sol.
+        5. O movimento aparente das estrelas no céu é devido à rotação
+           da Terra em torno do seu eixo.
+        6. O movimento aparente do Sol visto da Terra é devido à rotação
+           da Terra em torno de seu eixo.
+        7. O movimento retrógrado dos planetas é consequência do
+           movimento da Terra em torno do Sol.
+
+* Nascimento da Astronomia (Observacional) Moderna
+    - Telescópio foi inventado em ~1600
+    - Observações de Galileo:
+        - Lua possui montanhas e vales.
+        - Sol possui manchas e geira em torno de seu próprio eixo.
+        - Júpiter tem luas.
+        - Vênus tem fases.
+        - Saturno possui anéis.
+
+* Os modelos de Ptolomeu e Copérnico podem prefizer que Vênus tem fases
+    - Fase cheia = tamanho menor
+    - Fase crescente = tamanho maior
+
+    - Todas as fases de Vênus não podem ser explicadas pelo modelo
+      geocêntrico.
+
+* Leis do Movimento Planetário
+    - Galileo (1564-1642) foi o primeiro observador moderno: uso do
+      telescópio. Promoveu o sistema de Copérnico.
+    - Kepler (1571-1630) astrônimo e matemático: obteve as leis físicas
+      (empíricas) do movimento planetário.
+
+    - Leits de Kepler foram derivadas usando observações feitas
+      por Tycho Brahe.
+        - Observatório de Uraniborg (Hven - Dinamarca). O catálogo de
+          posições de estrelas e planetas era o meis completo e preciso
+          feito a olho nú.
+
+    - Leis de Kepler
+        1. Órbitas planetárias são elipses, com o Sol ocupando
+           um dos seus focos.
+        2. Uma dada linha imaginária que conecta o Sol a um planeta
+           descreve áreas iguais (A_a = A_b = A_c) em tempos iguais.
+            - Planetas movem-se mais rápido perto do Sol.
+        3. O quadrado do período do movimento orbital do planeta
+           é proporcional ao cubo do seu semi-eixo maior.
+
+            P² (anos terrestres) = a³ (unidades astronômicas)
+
+* Propriedades das órbitas planetárias
+    - Semi-eixo maior e ecentricidade descrevem totalmente o tamanho
+      e formato da órbita.
+    - Chamamos de periélio a distância mais próxima da Terra
+      do sistema solar, e de afélio a distância mais longíngua.
+
+* Dimensões do sistema solar
+    - Leis de Kepler: modelo em escala do sistema solar.
+                             ↓
+      Formas e tamanhos relativos das órbitas plaentárias
+
+    - O modelo da Terra não dá o tamanho real das órbitas (distâncias).
+      Somente distâncias relativas à distância Terra-Sol.
+
+* Determinação da UA (unidade astronômica)
+    - Desde Aristarco (mediu distância Sol+Terra usando as fases da
+      Lua), as primeiras medidas de distância por triangulação
+      (paralaxe) foram durante os trânsitos de Mercúrio e Venus
+      (1761-1769).
+
+    - Trânsitos de Mercúrio: 1 vez por década
+      Trânsitos de Vênus: 2 vezes por século
+        - Os planos das órbitas não coincidentes com a eclíptica,
+          por isso os trânsitos são mais raros.
+
+    - Para calcualr a distância, é possível calcular a posição do
+      planeta em relação às manchas solares.
+
+    - Se a paralaxe de Vênus medida na sua maior aproximação em dois
+      pontos diametralmente opostos da Terra é 1'. Então:
+        
+        linha de base    paralaxe : linha de base ~ 13.000 km
+        -------------- = -------- : paralaxe ~ 1'
+        2π * distância     360º   : distância Terra-Vênus: 45*10^6 km
+
+      Sabendo que Sol-Terra = 1AU e Vênus-Sol = ~0.7AU
+      → Terra-Vênus = 0.3 AU
+
+      D = 45*10^6/0.3 = 150*10^6 km → UA = 150*10^6 km
+
+    - Usando radar:
+        - Tempo: 300s ida e volta
+          c = 3*10^5 km/s
+          D = 150*3*10^5 = 45*10^6 km
+          D_Sol-Terra = 45*10^6/0.3 = 150*10^6 km
+
+* Leis de Newton
+    - Primeira lei: Inércia
+        Na ausência de forças externas, um objeto em repouco permanece
+        em repouso. Um objeto em movimento uniforme permanece em
+        movimento uniforme, até que uma outra força atue sobre ele. Na
+        ausência de forças externas, não há variação de velocidade
+        (baseado em Galileo 1564-1642).
+        
+        Inércia = propriedade do corpo que resiste à mudança.
+
+        - Medida da inércia de um corpo:
+            Momentum ou quantidade de movimento. Newton definiu o
+            momentum de um obketo como sendo porporcional à sua
+            velocidade. A constante de proporcionalidade, que é a
+            sua propriedade que resiste à mudança, é a sua massa:
+                        p = mv = constante se F = 0
+
+    - Segunda lei: Lei da Força
+        Relaciona a mudança de velocidade do objeto com a força aplicada
+        sobre ele. A força líquida aplicada a um objeto = à massa do
+        objeto vezes a aceleração causada ao corpo por esta força. A
+        aceleração é na mesma direção da força.
+                      F = m * a = m * dv/vt = dp/dt
+
+    - Terceira Lei: Ação e Reação
+        Estabelece que se o objeto exerce uma força sobre o outro
+        objeto, este outro objeto exerce uma força de igual itensidade e
+        direção contrária.
+
+    - Newton pôde explicar o movimento dos planetas em torno do Sol,
+      assumindo a hipótese de uma força dirigida ao Sol, que produz uma
+      aveleração que foçrça a velocidade do planeta a mudar de direção
+      continuamenteo.
+    
+    - Como foi que Newton descobriu a Lei da Gravitação Universal?
+        - Considerando o movimento da Lua em torno da Terra + as
+          leis de Kepler.
+
+    - Aceleração em órbitas circulares: o holandês Christiaan Huygens
+      (1629-1695) em 1673 e, independentemente, Newton, em 1665 (mas
+      publicado apenas em 1687, no Philosophiae naturalis principia
+      mathematica) descreveram a aceleração centrípeta.
+
+    - Por meio do cálculo diferencial - desenvolvido por Newton e,
+      paralela e independentemente, por Leibiniz, foi possível encontrar
+      que o valor da aceleração centrípeta é F = m*(v²/r). Mas APENAS
+      quando o ângulo de movimentação é pequeno.
+
+* Lei da Gravitação Universal
+    - Newton se deu conta de que esta força se estendia até a Lua e
+      produzia a aceleração centrípeta necessária para manter a Lua em
+      órbita (o mesmo vale para o Sol e os planetas). Então Newton
+      levantou a hipótese da existência de uma força de atração
+      universal entre os corpos em qualquer parte do Universo.
+
+    - A força centrípeta que o Sol exerce sobre um planeta de massa 'm'
+      que se move como velocidade 'v' à uma distância 'r' do Sol é:
+                              F = m * (v²/r)
+
+    - Assumindo uma órbita circular, v = 2*π*r/P, com P = período,
+      temos:
+                v = 2*π*r/P → F = 4π²r²/(p²r)*m = 4πr/p²*m
+
+    - Pela 3ª lei de Kepler, temos que:
+               K = r³/p², K dependendo das unidades de P e r
+
+    - Substituindo P em (a):
+                            F = 4π²K/r² * m
+
+    - De acordo com a 3ª lei (ação e relação), o planeta exerve uma
+      força igual e contrária sobre o Sol. Ou seja: F = 4π²K'/r² * M
+
+    - Logo: (4π²K/r²)*m = (4π²K'/r²)*M → G = 4π²K/M = G, uma constante
+
+    - Substituindo as equações, obtemos finalmente: F = G*m*M/r²,
+      onde G é uma constante de proporcionalidade com valor:
+                      G = 6.67 * 10^-11 N m²/kg²
+
+    - Tanto o Sol quando o planeta que se move em torno dele
+      experimentam a mesma força, mas o Sol permanece aproximadamente no
+      centro do Sistema Solar porque a massa do Sol é muito maior.
+
+    - Newton então concluiu que, para que a atração universal seja
+      correta, deve existir uma força atrativa entre pares de objetos
+      em qualquer região do universo, e esta força deve ser proporcional
+      às suas massas e inversamente proporcional ao quadrado de suas
+      distâncias.
+
+    - A constante de proporcionalidade G depende das unidades das massas
+      e distância. Em outras palavras, o Sol e o planeta atuam um sobre
+      o outro com a mesma força gravitacional, mas a aceleração do Sol é
+      muito menor.
+
+* Leis de Kepler revistas
+    - Explicação teórica das leis empórocas de Kepler
+      → Leis de Newton do movimento e da gravitação
+    - Correções para a 1ª e 3ª leis de Kepler
+
+    - 1ª lei: a órbita do planeta ao redor do Sol é uma elipse com o
+      CENTRO DE MASSA do sistema planeta-sol ocupando um dos focos.
+        - O centro de massa (CM) de um conjunto de massas é um ponto
+          onde se supõe estar concentrada toda a massa e onde se
+          considera aplicada a resultante das forças que atuam nesse
+          conjunto.
+
+        - Comportamento conforme a massa 'm1' e 'm2':
+            a) m1 = m2: órbitas são elipses idênticas com foco em
+              comum situado entre os dois objetos (mesma distância
+              no periélio).
+            b) M > m: foco comum e elipses com mesma excentricidade. M
+               move-se mais lentamente numa órbita menor. Centro de
+               Massa situado mais perdo de M (no periélio).
+            c)M >> m: centro de massa (foco) muito proxima ao cenro do
+              Sol (por isso a 1ª lei de Kepler é válida para o sistema
+              sol-planeta).
+
+    - 2ª lei: se aplica sem modificações para cada órbita separadamente.
+
+    - 3ª lei: é possível derivar a constante 'k'.
+        - Supondo dois corpos 'm1' e 'm2' num sistema isolado, separados
+          do centro de massa por 'r1 e 'r2', as equações de movimento
+          desses dois corpos podem ser dadas por:
+                        F_12 = m1*a1        F_21 = m2*a2
+
+        - A aceleração do CM de um sistema isolado é: m1*a1 + m2*a2 = 0,
+          F_12 = -F_21.
+
+        - O problema de duas massas pode ser reduzido a um problema de
+          uma massa com aceleração:
+            a_12 = a1 - a2   → a_12 = F_12   F_21   F_12   F_21
+            F_12 = -F_21              ---- - ---- = ---- + ----
+                                       m1     m2     m1     m2
+
+            → a_12 = F_12(1/m1 + 1/m2)
+
+        - Podemos definir a massa reuzida do sistema como sendo:
+                    1/µ = 1/m1 + 1/m2 → µ*a_12 = F_12
+
+        - Derivação da constante k:
+            - O movimento relativo de duas partículas submetidas
+              unicamente a sua interação mútua é equivalente ao
+              movimentorelativo a um observador inercial de um corpo de
+              massa = µ sob a ação de uma força F_G.
+
+            - Usando a lei da gravitação universal: µa = (G*m1*m2/r²)*r^
+
+            - Escrevendo a aceleração em função da velocidade linear:
+                                µ*v²/r = G*m1*m2/r²
+
+            - Sabendo que o período de uma órbita circular vale:
+                                    P = 2πr/v
+
+            - Substituindo por v acima, o período fica:
+                            P² = (4π²/G(m1 + m2)) * r³
+                                 ^^^^^^^^^^^^^^^^
+                                         K
+
+            - Isso nos diz que a "constante" K, definida com a razão
+              P²/a³, só é realmente constante se (m1+m2) permanece
+              constante. Isso é o que acontece no caso dos planetas do
+              sistema solar: como todos têm massa << Sol (Júpiter
+              apresenta m~0.001 sol), a soma da massa do Sol com a massa
+              do planejta é sempre paroximadamnte a mesma,
+              independentemente do planeta.
+
+            - Por essa razão Jepler, a formular sua 3ª lei, não percebeu
+              a dependêncai com a massa.
+
+            - Mas sistemas onde os corpos são diferentes, então P²/a³
+              serão diferentes. Ex: todos os sateĺites de Júpiter têm
+              praticamente a mesma razão P²/a³ = K_j, que portanto
+              podemos considerar constante entre elas, mas K_j ≠ K_sol.
+
+* Massas
+    - As massas do Sol, planetas, estrelas podem ser estimadas usando
+      a 3ª lei de Kepler, na forma derivada por Newton, ou seja:
+                            (M+m) = 4π²*a³/(GP²)
+
+    - Podemmos estimar a massa de uma estrela/planeta se conhecermos os
+      dados orbitais de um planeta/satélite que orbita em torno dele:
+        Unidades CGS: G = 4π² UA³/M_sol*ano²)
+                      'M' em M_sol, 'P' em anos e 'a' em UA, ou
+                      'M' em M_sol, 'P' em meses siderais e 'a'
+                      em distância Terra-Lua.
+
+      Sendo G/4π² = 1UA³/(M_sol*ano²) → (M + m) = a³/P².
+      Se M >> m, M ~ 1³/P².
+
+* Velocidade de escape
+    - A lei da gravidade descreve as órbitas dos planetas ao redor do
+      Sol, também se aplica igualmente aos satélites naturais (luas) e
+      satélites artificiais que orbitam qualqeur planeta.
+
+    - Velocidade de escape: velocidade necessária para uma passa escapar
+      de uma força gravitacional.
+
+    - K=U ← energia cinética = energia potencial:
+                    mv²/2 = GmM/R → v_escape = √2*GM/R
+    
+        m = massa do corpo
+        M = massa do planeta
+        R = raio do plante
+
+    - Velocidade de um satélie numa órbita circular um pouco acima da
+      superfície de um planeta:
+        
+        F_centrípeta = F_gravitavinal
+        mv²/r = GmM/r² → v = √GM/r
+
+    - A v_escape é 41% (√2) maior que a velocidade necessária para
+      manter um corpo em órbita circular num dado raio.
