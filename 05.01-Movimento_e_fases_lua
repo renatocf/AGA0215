@@ -1,0 +1,88 @@
+Movimento e fases da Lua
+=========================
+
+* O atrito das águas com o fundo dos oceanos + força gravitacioal da lua
+  causam a desaceleração da rotação da Terra.
+
+  1. A massa de água mais alta (bojo) não aponta diretamente para a Lua.
+     Efeitos de atrito da crosta terrestre com os oceanos fazem com que
+     a rotação da Terra mova o bojo junto com a mesma. Isso causa um
+     deslocamentodo bojo de um pequeno ângulo em relação a liha
+     Terra-Lua na mesma direção da rotação.
+
+  2. O efeito líquio da Lua é reduzir a vlocidade de rotação da Terra.
+     Taxa = 1.5 ms por século. Aumenta o dia em 0.002 segundos por
+     século.
+
+     Este processo continuará até a Terra rotar com a mesma velocidade
+     que a Lua gira em torno da Terra: rotação síncrona. Terra terá a
+     mesma face voltada para a Lua. Isso demorará alguns bilhões de anos
+     para ocorrer.
+
+  3. Ao mesmo tempo, a Lua vai "espiralando" cada vez mais para longe da
+     Terra, afastando-se na taxa de 4 cm por ano.
+
+     Período de rotação (síncrona) da Terra = 47 dias e distância (dia
+     e mês de mesma duração) Terra-Lua = 43% maior que a atual
+     (550.000 km).
+
+     Conservação do momentum angular do sistema Terra-Lua: se o momentum
+     angular de rotação da Terra diminui → aumenta o momento angular
+     orbital da Lua.
+
+     - A força que "empurra" a Lua para fora é a gravidade exercida pelo
+       bojo de maré mais próximo da Lua, que fica sempre um pouco
+       "adiantado" em relação à Lua porque é arrastado junto com a Terra
+       no movimento de rotação.
+     - A massa de água do bojo avelera a lua, que ganha velocidade
+       tangencial, se afastando da Terra.
+
+     - Daqui a alguns bilhões de anos, a sincrinização da órbita da
+       Terra com a Lua implicará em que o dia e mês terão a mesma
+       duração, que será igual a aproximadamente 47 dias atuais.
+
+     - Momento angular:
+         ι_total = ι_rotação_terra + ι_rotação_lua + ι_translação_lua
+
+       Se o ι_rotação_terra diminui (ι_rotação_lua constante)
+       → Lua aumenta seu momentum angular orbital (translação).
+
+                        ι_translação_lua = m *r x v
+
+       Onde 'r' é o raio da órbita e 'v' a velocidade orbital.
+
+       Como v = 2πr/P e P² = Kr³, então:
+
+        v = 2πr/(√K*√r³) =  (2πr/√K) * √r → l = m*(2π/√K)*r*(1/√r)
+          = m*(2π/√K)*√r
+
+                    ∴ ι_translação_lua = m*(2π/√K)*√r
+
+       Ou seja, para aumentar 'ι' é necessário aumentar 'r', compensando
+       assim a redução do momentum angular de rotação.
+
+* Movimento síncrono da Lua
+    - No passado: o período de rotação da Lua (lua líquida) era menor do
+      que seu período de translação em torno da Terra.
+    - Ao girar, ela tentava arrastar consigo os bojos de maré, que
+      sempre ficavam alinhados na direção da Terra: movimento relativo
+      entre as diferentes partes da Lua → igerava atrito →
+      freamento da rotação.
+
+    - Lua tem rotação 'sincronizada com a translação': observa-se da
+      Terra sempre a mesma face da Lua.
+
+    - A Lua gira em torno de seu eixo exatamente no mesmo intervalo de
+      tempo em que completa uma volta em torno da Terra.
+
+    - Nesta confirguração as marés na Lua, produzidas pela Terra,
+      ocorrem sempre no mesmo ponto não gerando atrito nem perda de
+      energia).
+
+* Movimento de libração
+    1) Libração em longitude: órbita da Lua em norto da Terra não é
+       perfeitamente esférica.
+    2) Libração em latitude: inclunação do eixo de rotação da Lua e o
+       plano de órbita em torno da Terra (< 1º)
+
+    - Podemos observar mais 9% (da face escondida) da Lua!
