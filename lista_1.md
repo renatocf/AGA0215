@@ -15,7 +15,6 @@
 9. **(V)** Uma estrela com ascensão reta de 2,6 horas deverá estar a 2,6 horas do equinócio vernal.
 10. **(V)** Precessão é o efeito de variação da direção do eixo de rotação da Terra.
 
-
 #### B) Preencha o que falta
 
 1. Uma unidade de distância comumente usada em astronomia é __ano-luz__, que é a distância percorrida pela luz em 1 ano.
@@ -29,7 +28,9 @@
 9. Os 4 minutos extras no dia solar médio é devido a __translação__.
 10. Se nossa latitude é 40º N, então as estrelas que passam através do nosso zênite têm declinação de __+40º__.
 
+
 #### C) PROBLEMAS
+
 **1) Quais declinações podem ser observadas do polo norte, sul e do equador?**
 
 No polo norte, é possível observar as declinações 0º a +90º. No polo sul, as declinações observáveis variam de 0º a -90º. Na linha do equador, as declinações vão de -90º a +90º.
