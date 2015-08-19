@@ -15,6 +15,7 @@
 9. **(V)** Uma estrela com ascensão reta de 2,6 horas deverá estar a 2,6 horas do equinócio vernal.
 10. **(V)** Precessão é o efeito de variação da direção do eixo de rotação da Terra.
 
+
 #### B) Preencha o que falta
 
 1. Uma unidade de distância comumente usada em astronomia é __ano-luz__, que é a distância percorrida pela luz em 1 ano.
