@@ -1,0 +1,369 @@
+Telescópios
+============
+
+* Veremos nas próximas aulas sobre o funcionamento de telescópios. Esse
+  funcionamento será essencial para entendermos que tipo de medições são
+  obtidas a partir deles.
+
+* Temos dois tipos de telescópios principais:
+    - Espacial (ex: HST, Hubble Space Telescope).
+    - Terrestre (ex: VLT, Very Large Telescope, composto de um conjunto
+      de telestópios).
+        - Veremos que um array de telescópios pode ser muito bom para
+          conseguir informações.
+
+* Telescópios ópticos
+    - Nessa aula, focaremos mais em telescópios ópticos.
+    - Existem dois grandes tipos: refratores e refletores.
+
+* Telescópios refratores
+    - Utilizam o princípio da refração (mudança da direção da luz
+      quando atravessa diferentes meios).
+    - Os telescópios utilizam, para a refração, lentes.
+
+    - Em um prisma, o ângulo da regração depende do ângulo entre suas
+      faces.
+        - Raios de luz são refratados ao passarem do ar para o vidro.
+        - O raio é refratado uma segunda vez, do vidro para o ar.
+        - Um prisma grande produz um grande ângulo de defleção.
+
+    - Uma lente pode ser vista como uma série de prismas, cada uma com
+      uma certa angulação.
+        - As diferentes partes da lente, com diferentes ângulos de
+          defleção, servem para focar os raios de luz em um único
+          ponto. A distância entre a lente e esse foco é chamada
+          de distância focal.
+        - Num telescópio refrator, costumamos chamar essa lente de
+          OBJETIVA.
+
+* Telescópiios refletores
+    - Utilizam o princípio da reflexão (defleção da luz com mesmo ângulo
+      de incidência, em cada ponto de reflexão).
+    - Os telescópios utilizam, para a reflexão, espelhos.
+
+    - Um espelho curvo concentra os raios de luz por meio da reflexão em
+      ângulos diferentes.
+        - As diferentes partes do espelho, com diferentes ângulos,
+          servem para focar os raios de luz em um único ponto. A
+          distância entre a lente e esse foco é chamada de distância
+          focal.
+        - Num telescópio refrator, costumamos chamar esse espelho
+          de ESPELHO PRIMÁRIO.
+
+* Razão focal
+    - Razão entre a distância focal e o diâmetro do espelho / lente.
+    - Costuma ser informado ao se comprar um telescópio.
+
+    - Ex: DF = 1m, D = 20cm
+          F = DF/F = 1/0.2 = 4
+          Notação: F = "f/5"
+
+    - Quanto maior DF = menor o ângulo de visão (maior amplicação)
+    - Quanto maior D, maior coleta de luz.
+
+    - Razões focais menores (≤ f/6) são de melhor proveito para
+      observações de objetos mais fracos, como nebulosas ou galáxias.
+        - Ou terá maior nitidez (< DF) ou mais luz (> F).
+    - Razões focais maiores (≥ f/10) são indicadas para observação de
+      objetos mais luminosos, como a Lua e planetas.
+        - Ou terá menos nitidez (> DF) ou menos luz (< F).
+
+* Telescópios refletores
+    - Suponhamos uma fonte extensa de luz (ex: cometa).
+    - A luz é vinda de diferentes pontos de um objeto.
+    - A imagem é formada em torno do foco primário.
+    - Por conta da curvatura e da maneira que o espelho faz o foco,
+      temos que a imagem vista será invertida.
+
+* Exemplos de telescópios refratores
+    - Ex: luneta simples
+    - Temos algumas partes: lente (objetiva), foco e ocular.
+        - O foco, em geral, tem tamanho de no máximo 1 cm. O ocular
+          serve para ajudar a ampliar a imagem.
+
+* Exemplos de telescópios refletores
+    - Ex: telescópio newtoniano
+    - Temos a lente primária, onde há a reflexão, e um espelho
+      secundário, cujo foco fica atrás do espelho secundário e
+      envia os raios de luz para o ocular.
+
+* Amplicação ou aumento
+    - Um dos fatores menos importantes na compra de um telescópio é o
+      seu poder de aumento (a razão focal é o principal). O poder de
+      amplicação, de um telescópio, é a relação entre dois sistemas
+      independentes de ótica:
+        1. telescópio em si
+        2. a ocular
+
+    - A = distância focal da objetica (espelho primário)
+                    ------------------------------------
+                     focal da obular (espelho primário)
+
+    - Ex: um telescópio de DF= 2032 mm com uma ocular de distância focal
+      de 10mm, dá uma aplicação de A = 203x.
+
+    - Existem limites para o poder de ampliação: são determinadas pelas
+      leis da óptica e da natureza do olho humano.
+
+    - Amplicação Máxima: amplicação visual máxima que um telescópio pode
+      alcançar antes que a imagem comece a ficar muito escura e com
+      pouca nitidez.
+
+    - Regra geral: A_max ~ 50x a 60x por polegada de diâmetro
+      (abertura), em condições atmosféricas ideais.
+    - Em noties com mais turulência na atmosfera, observando em 30x a
+      40x por polegada de abertura se terá um melhor resultado que a
+      regra de 50x a 60x.
+
+    - Ampliação máxima utilizãvel: 60 x diâmetro do telescópio (em
+      polegadas) em condições atmosféricas ideias.
+        - Ampliações superiores: imagens com pouca nitidez e de menor
+          contraste.
+
+    - Ex: A_max de um telescópio com abertura de 60 mm (2.4!) é 144x.
+        - A medida que aumenta o poder de amplicação, a nitidez e os
+          detalhes da imagem diminuirão.
+        - PS: não acredite nos fabricantes que anunciam um telescópio de
+          apenas 60 mm de abertura (2.4 polegadas) com ampliação de 375x
+          ou 750x (a amplicação máxima nõa passa de 144x).
+
+    - A maioria das observações será feita com ampliações inferiores:
+      6 a 25 x diâmetro do telescópio (em polegadas) → imagens mais
+      brilhantes e nítidas.
+
+* Aberrações ópticas
+    - Uma aberração óptica refere-se a ma DEFEITO pelo qual um sistema
+      óptica forma uma imagem imperfeita de um dado objeto, ou seja,
+      uma imagem que não é semelhante ao objeto.
+
+    * Aberração cromática
+        - O ângulo de refração varia com o comprimero de onda (não
+          ocorre com espelhos, mas pode ocorrer nos telescópios
+          refratores. As cores variarão segundo a refração
+          e o espalhamento da luz no material da lente).
+        - O efeito pode ser reduzido combinando lentes de diferentes
+          distâncias focais ou diferentes materiais.
+            - Uma lente côncava é ideal para refocar os raios.
+
+        - Luz é absorvida parcialmente quando passa pelas lentes
+          (pior para radiação Uv e IR, onde ocorre maior observação
+          pelo vidro).
+        - Não ocorre com espelhos.
+
+        - Lentes maiores podem ser muito pesadas e podem somente ser
+          sustentadas pelas suas bordas. (Um espelho pode ficar "sentado"
+          na borda do telescópio).
+
+        - Uma lente tem duas superfícies que devem ser montadas e
+          polidas (manutenção mais difícil). O espelho só tem uma.
+
+        - Todos esses motivos contribuem para que os grandes telescópios
+          terrestres atuais sejam feitos com espelhos.
+
+        - Refratores
+            - Muito difícil corrigir a aberração cormática para
+              aberturas maiores que 30 cm.
+            - Telescópios com D > 1m são impraticáveis, por requerem
+              longos tubos e sofrem de aberração.
+
+        - Maior refrator construído: Yerkes (1896)
+            - 40" = 1m de diâmetro
+            - A construção deste telescópio se rebelou ser o limite da
+              tecnologia dos refratores: o par de lentes objetivas é
+              muito pesado e tende a se deformar peo seu próprio peso.
+            - Além disso, ele é muito espesso e absorve uma fração
+              considerável da luz incidente.
+
+    * Aberração esférica
+        - Para superfícies coletoras com simetria esférica → foco se 
+          forma mais perto da lente (espelho) para feixes de luz que 
+          incidem nas bordas da(o) mesma(o).
+
+        - Esse tipo de aberração pode ser corrigida com superfícies
+          parabólicas ou hiperbólicas → superfícies menos curvadas nas
+          bordas.
+
+    * Aberração de coma
+        - "coma" é originado porque se parece com a cauda de um cometa.
+        - Imagens de objetos que estão longe do centro do campo vão se
+          degradando (pior quanto maior a distância da imagem ao eixo
+          focal).
+        - Ocorre com as superfícies parabólicas / hiperbólicas.
+        - Efeito inversamente proporcional ao quadrado da razão
+          focal: 1/(F/D)²
+
+* Tipos de telescópios refletores: óptica
+    - Foco primário: foco segue seu caminho diretamente).
+    - Foco newtoniano: tem um espelho secundário para deslocar
+      a luz para o espelho secundário.
+        - Bons para telescópios pequenos (astronomia amadora), pois
+          a ocular fica no topo do telescópio.
+    - Foco cassegrain: O espelho secundário reflete os raios de luz
+      para um buraco na lente. 
+        - Bom para equipamentos medianamente pesados (ex: até 1.5m).
+          Os equipamentos se movem com o telescópio e ficam no
+          buraco do telescópio.
+    - Foco Nasmyth/Coudé: tem um espelho terciário para desviar
+      a luz para uma ocular na lateral.
+        - Bom para equipamentos muito pesados, fixos na sala do
+          telescópio.
+
+* Montagens
+    - Montagem altazimutal
+        - O telescópio se move num eixo de azimute (no plano horizontal
+          local), e num eixo de altura ortogonal a este.
+        - Vantagens: prática de montar, compacta, mais leve do que
+          as demais.
+        - Desvantagem: necessita de 2 motores se movendo em velocidades
+          variáveis para fazer o acompanhamento sideral. Isso requer
+          processamento de dados online para controle dos motores.
+
+    - Montagem altazimutal dobsoniana
+        - É preferia dos amadores por ser mais fácil de montar
+          e desmontar.
+        - A grande desvantagem é que a ocular fica no alto da contagem,
+          o que impede a instalação de instrumentos pesados.
+
+    - Montagem equatorial
+        - O telescópio é montado num eixo paralelo ao eixo de rotação da
+          terra (eixo polar).
+        - A rotação do eixo polar dá o movimento E-W (ascenção reta).
+        - A rotação do outro eixo ortogonal ao eixo polar dá o movimento
+          N-S (declinação).
+
+        - A grande vantagem é que basta um único motor funcionando a
+          velocidade constante para fazer o acompanhamento sideral
+          (giro do eixo polar).
+        - A desvantagem é que a montagem é assimétrica e, portanto,
+          mais massiva, mais cara e mecanicamente mais instável.
+
+    - Montagem equatorial alemã
+        - O telescópio é instalado na extremidade de um eixo ortogonal
+          ao exio polar.
+        - Na outra extremidade do eixo é instalado um contrapeso.
+
+    - Montagem equatorial em ferradura
+        - O telescópio é instalado dentro de uma ferradura, que gira
+          centrada no eixo polar.
+        - Toda a carga mecânica da parte móvel é execida na junção
+          da ferradura com o pilar.
+        - Melhor posição da ocular.
+
+* Sistema óptico catadióptrico
+    - Combina espelho com lente
+    - A captação da luz é feita por um espelho primário. Porém, antes
+      de chegar no mesmo a luz passa por uma lente corretora para
+      minimizar os efeitos de coma.
+    - Correção importante para um telescópio refletor grande, aumentando
+      a imagem útil.
+    - O telescópio pode ficar mais curto.
+
+* Telescópios
+    - Câmetra schmidt
+        - Utiliza lentes para correção do campo inteiro.
+        - Cobre vários graus do céu.
+        - 1.2m de diâmetro (Mt. Palomar)
+        - Produz uma imagem curva que não é adequada a observação a olho
+          nú, e sim filmes fotográficos especiais.
+
+    - Mt. Wilson (1922)
+        - Telescópio Hooker: 2.5m de diâmetro.
+        - Montagem equatorial em ferradura com dois pés, devido à
+          grande massa do telescópio.
+        - A linha que une o pé sul (mais baixo) e o pé norte (mais alto)
+          aponta para o Polo Norte Celeste.
+        - Usado por Edwin Hubble: existência de outras galáxias e seus
+          movimentos de recessão (a leir de Hubble) entre 1922 e 1929.
+
+    - Mt. Palomar (1948): 200" (5m)
+        - Montagem análoga a Mt. Wilson: equatorial em ferratura com
+          dois pés. Até os anos 70 foi o maior telescópio do mundo. O
+          telescópio russo de 6m construído nos anos 70 nunca funcionou
+          direito e este aqui foi na prética o maior do mundo até a
+          entrada em operação dos telescópios de classe 8-10m, como o
+          Gemini, VLT ou Keck.
+
+    - Telescópios gêmios ótico/IR Keck (Mauna Kea - Hawai)
+        - 10m de diâmetro (mosaico formado por 36 espelhos hexagonais
+          de 1.8m de diâmetro cada).
+        - Pode ser usado tanto com foco Cassegrain (equipamento abaixo
+          do telescópio, com movimentação junto a ele) ou foco
+          Coudé (equipamento em otura sala).
+
+    - HST (Hubble Space Telescope)
+        - É um telescópio Cassegrain de 2.4m de diâmetro: detectores
+          para medidas do óptico, IR e UV (100nm a 200nm).
+        - Custo: US$9 bi 
+          Altitude orbital: 600 km
+          Volta completa na Terra: 95 min
+          Dimensões: 13 m x 12 m (incluindo os coletores solares)
+          Peso: 11.000 kg
+
+* Tamanho do telescópio
+    - Quanto mais luz o telescópio coleta, maior detalhe se tem (objetos
+      mais fracos) (light-gathering power) (MAIOR ÁREA COLETORA).
+    - O brilho observado é diretamente proporcional à área da
+      superfície coletora (espelho):
+                Brilho ∞ área do espelho → ∞ diâmetro²
+
+    - Definição de fanho de um telescópio em relação a outro:
+        ↑ diâmetro      B1/B2 = (D1/D2)²
+        ↑ ganho     
+
+    - Um telescópio de 5m produzirá uma imagem 25 vezes mais brilhante
+      do que um telescópio de 1m.
+        ↑ diâmetro      t1/t2 = (D2/D1)²
+        ↓ t_exposição 
+
+    - Tempo de exposição de 1h com um telescópio de 1m equivale a ~2.4
+      min com um telescópio de 5m (4% do tempo do telescópio de 1m).
+
+* Poder de resolução
+    - Melhor resolução angular: pode-se distinguir objetos muito
+      próximos angularmente (próximos na projeção da esfera celeste).
+
+    - Resolução é proporcional ao comprimento de onda e inversamente
+      proporcional ao tamanho do telescópio:
+                                Res ∞ λ/D
+
+    - Quanto menor → melhor resolução.
+    - Quanto mais azul, melhor a resolução.
+
+* Limite de difração
+    - Quando feixe incide no coletor do telescópio: luz dispersa
+      diminuindo a concentração do feixe = perda de resolução da imagem.
+    - Difração é uma propriedade intrínseca das ondas, e limita a
+      resolução de um telescópio dependendo do comprimento de onda e
+      tamanho do telescópio.
+
+    - Para um espelho circular e ótica perfeita, a resolução angular de
+      um telestópio é:
+
+        θ = (20625 * λ)/ D, em " de arco (1 rad = 206265")
+
+    - Separação angular mínima que pode ser distinguida por telescópio.
+      Ex: para um telescópio de 1m:
+        λ = 400 nm (B) resolução θ~0.1"
+        λ = 10 µm (IR) resolução θ ~ 2.1"
+
+* Imagens e Detectores
+    - Aquisição de imagem: Charge-coupled device
+    - CCD: 10^5 ou 10^6 células sexíveis a luz (PIXEIS). Luz incidente
+      em cada píxel por caus ade uma descarga elétrica, que é lida e
+      usada para reconstruir o padrão de luz pelo computador.
+
+* Instrumentos para a anállise de radiação
+    - Fotômetro: medida da radiação em diferentes filtros = cores
+      (intervalos de λ).
+    - Espectrígrafo: rede de difração para obtenção dos espectros.
+
+* Astronomia de alta resolução
+    - Resolução angular piora ainda mais por turbulência atmosférica:
+      luz sofre refração na atmosfera, que altera direção do feixe.
+    - Seeing (medida da turbulência atmosférica): é o termo que se usa
+      para expressar o efeito da atmosfera na desfocalização de imagens.
+
+    - Resolução teórica (limite de difração) do Keck (10 m) = 0.01"
+      no azul. Mas nenhum telescópio terrestre pode alcançar uma
+      resolução muito mairo de ~1", por causa da turbulência
+      atmosférica.
