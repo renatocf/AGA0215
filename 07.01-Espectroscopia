@@ -1,0 +1,235 @@
+Espectroscopia
+===============
+
+* Como se forma o espectro? Natureza da luz
+
+    - Luz nem sempre se cmporta como onda, mas também como partícula
+      (Einstein, prêmio Nobel em 1919).
+    - A luz incidente suma superfície metálica pode extrair elétrons
+      (e-) do material:
+        1) A velocidade dos elétrons depende do λ ou frequência da luz,
+           e não da intensidade.
+        2) Para uma dada ν ou λ, o número de elétrons extraídos depende
+           da intensidade.
+        3) Existe uma ω mínima (λ máximo) abaixo da qual não são
+           extraídos os elétrons (cutoff)
+
+    - A luz viaja em pacotes discretos de energia chamados FÓTONS.
+
+    - Fótons são as partículas da radiação eletromagnética.
+    - Cada fóton carega uma energia que é proporcional à frequência da
+      radiação (ou inversamente proporcional ao λ)
+
+    - E_fóton ν → E_fóton = h x ν = h x (c/λ)
+
+        h = constante de Plank da radiação. Planck determinou o valor
+            numérico de h.
+
+* Natureza da matéria
+    - Estrutura dos átomos
+        - O que define um elemento? O número de prótons no número define
+          um átomo de um elemento químico.
+        - Ex: o átomo de H tem um próton (p+)
+            - O H com P+ + elétron (e-) = H neutro
+            - O H com um P+ + e0 + nêutron (n0) = deutério
+              (isótopo pesado do H).
+        - Se um p+ é adicionao ao H temos formado um elemento diferente
+          que é o hélio (He).
+
+    - Modelo de um átomo de hidrogênio
+        - e- orbitando a diferentes energias ao redor do próton
+          (átomo de Hohr, 1912)
+        - Os e- podem ocupar diferentes níveis de energia, mas nem todos
+          os níveis de energia são permitidos para os elétrons (órbitas
+          são quantizadas).
+        - O nível de menor energia se chama *estado fundamental* do
+          átomo. Se o(s) elétron(s) ocupa(m) este nível, diz-se que o
+          átomo se encontra no *estado fundamental*.
+        - Se o(s) eétron(s) ocupar(em) níveis mais altos, o átomo estará
+          no *estado excitado*.
+
+    - O átomo mais simples é o átomo de hidrogênio, constituído de um
+      próton e um elétron.
+
+    - Concepção moderna: nuvem eletrônica a redor do núcleo
+        - Não se pode determinar exatamente a posição onde o elétron
+          está, e sim qual a *probabilidade* de encontrá-lo numa dada
+          posição na nuvem.
+        - Distância média da núvem ao núcleo - raio da órbita do
+          elétron.
+
+    - Átomo de Bohr
+        - Bohr propôs que somente certas órbitas discretas seriam
+          permitidas e que em tais órbitas o elétron não emitiria 
+          radiação. Essas órbitas são definidas por:
+
+                                  mVr = nh/2π
+
+          onde m é a massa do elétron; r ó raio do movimento circular
+          com velocidade v, em torno do núcleo.
+
+    - A expressão apra  raio da órbita é obtida igualando-se a força
+      centrípeta com a força coulombiana:
+
+                      mV²/r = Ze²/r² → V² = Ze²/mr
+
+      onde Z é o número atômico, "e" é a carga elétrica.
+
+    - Combinando (i) e (ii), teremos:
+
+                        r = n² * h²/(4π²mZe²)
+
+      a qual determina que APENAS ALGUMAS ÓRBITAS SERÃO POSSÍVEIS.
+
+    - A energia total de um elétron na órbita 'n' será dada pela
+      combinação da energia cinética com a energia potencial:
+
+                E = mV²/2 - Ze²/r = -13.6Z²/n² eV
+                    elétron-volt --------------^^
+
+    - Níveis de energia do átomo H, mostrando 2 séries de linhas de
+      emissão.
+        - A diferença de energia dos elétrons em cada órbita em relação
+          ao estado fundamental (definindo nesta figura n=1, ΔE = 0),
+          é dada por:
+                        ΔE = 13.6 (1 - (1/n²)) eV
+        
+        - A quantidade de energia ganha por um elétron quando ele
+          acelera num potencial elétrico de 1 Volt é:
+                         1 eV = 1.6 * 10^-19 K
+
+        - As linhas de emissão correspondem às diferenças de energia.
+
+    - Ex: a linha correspondente à transição Lyα (2 → 1): E_2 = 10.2 eV
+                                        ↔ 
+                                    ΔE = hc/λ
+
+      Ou, simplificando, ΔE(ev) - 1240/λ (nm).
+      Então λ ~ 122nm e ν ~ 2.14 * 10^15 Hz
+
+    - Resumindo
+        1. Luz está ligada a FÓTONS e cada fóton carrega uma energia
+           = h x ν = hc/λ
+        2. Átomos têm uma estrutura tal que somente algumas órbitas são
+           permitidas para os e-, ou seja, as órbitas são ditas
+           QUANTIZADAS (níveis de energia).
+        3. Uma transição equivale a uma diferença de energia entre
+           distindos níveis.
+
+    - Qual a relação da luz com as linhas espectrais? O que acontece
+      se os átomos de H forem bombardeados por fótons? Existem duas
+      possibilidades:
+        1. A maioria dos fótons passa sem nenhuma interação.
+        2. Os fótons com as energias "certas" serão absorvidos
+           pelos átomos.
+            - Energia "certa" significa: quando a energia do fóton
+              corresponde à diferença nos níveis de energia entre as
+              duas órbitas permitidas do átomo de H.
+            - "Absorvidos" significa: o elétron subirá a um nível de
+              energia mais algo (átomo estará num nível mais alto 
+              usando a energia do fóton para isso).
+        3. O átomo tende a voltar ao estado fundamental (estado de
+           mínima energia) e poderá emitir um fóton de mesma energia do
+           fóton original absorvido, se voltar diretamente ao estado
+           fundamental.
+            - Lei da conservação da energia: se o elétron voltar ao
+              estado fundamental, a diferença de energia deverá aparecer
+              em algum lugar: fóton emitido).
+
+    - Lei básica da natureza: qualquer sistema naturalmente busca o
+      estado de mínima energia (estado fundamental).
+
+    - Um átomo excitado poderá não voltar diretamente ao estado
+      fundamental e sim passar por outros níveis de energia na
+      sequência, emitindo vários fótons (efeito cascata).
+
+      A soma das energias dos fótons é igual à energia do fóton original
+      absorvido.
+
+    - As transições entre os diferentes níveis de energia do átomo de H
+      que originam as diferentes séries do aspectro de emissão.
+        - As transições do estado fundamental até os outros níveis são
+          tambḿe chamadas de série de Lyman.
+
+* Espectro de absorção
+    - As linhas de aboseoção correspondem às transições de energia.
+    - Cada linha tem um nome e um comprimento de onda correspondente à
+      sua transiçõa. Cada comprimento de onda corresponde a uma trnsição
+      que ocorre num átomo.
+
+    - O fato dos fótons de energias "certas" serem absorvidos pelos
+      átomos de um gás e logo depois emitidos de volta, não quer dizer
+      que nunca se absorveria linhas de absorção num espectro.
+
+    - Observam-se as linhas de absorção por duas razões básicas:
+        1. Os fótons emitidos de volta o são em *qualquer direção".
+           Logo, se o espetrógrafo estiver apontado na direção da fonte
+           de luz + gás o instrumento estará medindo na maior parte
+           das vezes os fótons que foram tirados do feixe original,
+           ou seja, os absorvidos.
+        2. Um fóton absorvido pode ser re-emitido em cascata, ou seja,
+           pode ser emitido por meio de vários fótons de energia menor
+           e, portanto, diferentes da energia do fóton original que foi
+           absorvido.
+
+    - Formação de linhas espectraais:
+        - Um gás vai produzir:
+          1. um espectro de linha de absorçõa se ele estiver entre o
+             espectrógrado e a fonte de luz contínua.
+          2. um espectro de linha de emissão, se visto de um ângulo
+             diferente (sem ver a fonte de luz, só a nuvem).
+
+    - Podemos supor que estrelas são uma fonte de luz contínua produzida
+      por um gás quente e denso no seu núcleo, com uma atmosfera mais
+      fria de gás na sua borda que absorverá a radiação vinda do seu
+      interior → observação em um aspectro de absorção vindo da estrela.
+
+    - O espectro de absorção medido dará informações sobre a composição
+      quimica do gás que constitui a atmosfera (fotosfera) da estrela.
+
+    - Se observarmos somente uma núvem de gás quente e de baixa
+      densidade, veremos um espectro de emissão. Este espetro também
+      dará informações sobre a composição química da nuvem.
+
+* Espectros mais complexos
+    - Exemplo: o Ferro contribui com quase 800 linhas no espectro solar,
+      por duas razões:
+        1. átomos com mais elétrons = mais transições possíveis
+        2. Fe está na maior parte ionizado (alguns dos seus 26 elétrons
+        fora do átomo). Ionização muda a estrutura do átomo = NÌVEIS DE
+        ERGIA DO ÁTOMO IONIZADO ≠ NÍVEIS DO ÁTOMO NEUTRO = conjunto
+        diferente de linhas espectrais.
+
+      Espectro de uma estrela / nuvem = tda a soma de transições de
+      diferentes elementos (íons e átomos).
+
+    - Transições eletrônicas nos elementos mais baixos orbitais de
+      elementos mais levez (H e He) → produzem radiação visível e UV.
+    
+    - Transições entre estados altamente excitados do H e outros
+      elementos produzem linhas no IR e RÁDIO (impossíveis de se medir
+      em laboratório da rerra, mas medidas usando radiotelescópios.
+
+    - Transições moleculares
+        - Moléculas podem vibrar e rotar, além de ter míveis de energia.
+            - Transições eletrônicas produzem linhas no visível e UV.
+            - Transições vibracionais produzem linhas IR.
+            - Transições rotacionais produzem linhas de rádio)
+
+    - Análise espectral
+
+                Informações espectrais derivada da luz
+        .----------------------------.------------------------------.
+        | ν ou λ no pico de radiação |     T(lei de Wien)           
+        | (espectro contínuo)        |
+        |                            |
+        | Linhas presentes           | T, composiçõa química
+        |                            |
+        | Intensidades das linhas    | T, composição química
+        |                            |
+        | Largura das linhas         | T, turbulência, velocidade de
+        |                            | rotaçõa, densidade, campo
+        |                            | magnético
+        |                            |
+        | Deslocamento doppler       | velocidade radial
+        |                            | (linha de visada)
