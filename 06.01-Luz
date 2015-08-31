@@ -1,0 +1,217 @@
+Radiação eletromagnética
+=========================
+
+* Radiação eletromagnética
+    - Por que? Nossos olhos são sensíveis a uma pequena faixa de
+      radiação eletromagnética (ondas visívei).
+
+* Definições
+    - Radiação: qualquer forma de transmissão de energia através do
+      espaço de um ponto a outro (sem necessidade de uma ligação física
+      entre os dois pontos).
+
+    - Radiação eletromagnética: energia transmitida por variações
+      (flutuações) no campo eletromagnético.
+
+    - Luz visível: tipo particular de radiação eletromagnética a qual o
+      olho humano é sensível.
+        - A maior parte da radiação eletromagnética é invisível ao olho
+          humano.
+        - Rádio, infravermelho, ultravioleta, raios x, raios γ
+
+* Ondas
+    - Todos os tipos de radiaçõa eletromagnética que viajam pelo espaço
+      sob a forma de ondas.
+    - Uma onda é uma gorma de transmitir informação de um lugar a outro,
+      sem nenhum transporte de matéria entre esses lugares.
+    - Mas, toda a onda de luz tem associada a ela uma partícula = fóton,
+      que passa pela dualidade onda-partícula.
+    - Onda de gravidade = gráviton
+
+    - A maioria das ondas precisam de um meio para se propagar:
+        - 
+        - 
+
+    - Como a luz se propaga sem um meio?
+        - Resposta: interação entre partículas carregadas
+        - Supondo que partículas carregadas possam vibrar (pelo calor ou
+          colisão com outras partículas)
+            - Vibração causa variação do campo elétrico
+            - Variação do campo elétrico: medida da variação na força
+              exercida sobre uma outra carga dá informação sobre o
+              movimento da partícula original.
+            - Portanto, a informação sobre o estado de movimento de uma
+              partícula é transmitida pelo espaço através da variação do
+              campo elétrico. Essa perturbação no campo elerico viaja
+              pelo espaço sob a forma de uma onda.
+            - Embora estejamos falando apenas de onda elétrica, ao
+              colocar o magnetismo em jogo temos que a variação no campo
+              eletromagnético é transmitido por uma onda
+              eletromagnética.
+
+    - Terminologia das ondas
+
+              comprimento da onda
+                 .---------.
+                .-.       .-.       .-.       .-.      ¨|¨ amplitude
+              .´   `.   .´   `.   .´   `.   .´   `.    _|_ da onda
+            .´       `-´       `-´       `-´       `-
+
+
+    - As leis que regem as interações eletromagnéticas são dadas pelas
+      equações de Maxwell (considerando o vácuo):
+        - Lei de Ampére 
+        - Lei de Faraday (indução eletromagnética): produção de corrente
+          elétrica por um campo magnético variável.
+        - Lei de Gauss: relação entre o fluxo elétrico e a quantidade de
+          carga elétrica.
+        - Ausência de polos magnéticos livres: não há pontos onde as
+          linhas de campo divergem ou convergem.
+
+        - Maxwell mostoru que a radiação eletromagnética, ou seja, a
+          luz, se propaga como uma onda.
+        - A partir de transformações matemáticas que ele realizou sobre
+          as 4 equações do eletromagnetismo, Maxwell mostrou que as 4
+          equações se reduziam a uma equação de onda.
+
+        - A luz que recebemos das estrelas naada mais é do que a
+          radiação eletromagnética produzida por fenômenos físicos que
+          ocorrem no seu interir, e posteriormente, emitida por elas.
+        - Essas ondas eletromagnéticas se propagam no meio interestelar
+          e chegam até nós permitindo-nos ver os objetos celestes.
+        - Também foir Maxwell que mostrou, a partir da obtenção da
+          equação de propagação ondulatória da luz, qe a velocidade
+          desta propagação, ou seja, a velocidade da luz no vácuo, é
+          aproximadamente 3 x 10^5 km/s.
+
+    - Propagação da informação
+        - Onda eletromagnética → carrega informações sobre distindos
+          pontos no universo.
+        - Partículas carregadas se movimentam num dado objeto (galáxia,
+          estrela, etc) dando origem a ondas eletromagnéticas que viajam
+          pelo espaço até um detector.
+
+        - A luz incidente faz partículas carregadas no detecnor também
+          se agitarem. A agitação é dependente do movimento original da
+          partícula que originou a onda.
+
+        - A informação viaja no máximo à velocidade = c. Não existe
+          transmissão INSTANTÂNEA de informação.
+            - Ex: leva 2.5 milhões de anos para recebermos a luz
+                  de Andrômeda.
+
+* Espectro eletromagnético
+    - Ex: refração da luz
+    - O que determina a cor? comprimento de onda λ ou frequência ν.
+
+    - λ é dado em nm (nanometros) ou Å (angstrom)
+        1Å = 0.1 nm = 10^-10 m = 10^⁻4 µm
+    - ν é dada em ciclos/s = Hz
+
+    - Luz visível: 3900 a 7800Å
+
+    - Faixaas eletromagnéticas:
+
+    Rádio | Infravermelho | Visível | Ultravioleta | Raio X | Raio γ
+    --------------------------------------------------------------->
+                        Maior frequência (ν)
+    <-------------------------------------------------------------->
+                    Maior comprimento de onda (λ)
+
+    - Cor + azul     → λ menor (ν maior)
+    - Cor + vermelha → λ maior (ν menor)
+
+* Opecidade atmosférica
+    - Nem toda aradiação passa pela nossa atcmosfera.
+    - Opacidade Atmosféroca; floquear a radiação.
+      Atmofera tramspartente → jalenas que deixam passar dradiação λ de
+      rádio e visável: estudo dos objetos astronômicos
+
+    - Principais componentes que bloqueiam a radiação:
+        H²O + O² → absorve ondas de rádio de λ < 1 com
+        CO² → absorve radiação no IR
+        O³ → absorve ragfaiação UW, raios rx, raios gama
+
+    - A atmosféria é ~transparente na faixa visível (3500A a 6500A),
+      absorve fortemente no UV (1000A a 3500A) e em várias vandas do IR
+      (1 µm a 1mm), de modo que não pdemos medir UV do solo, e IR
+      somente acima de 200m de altura.
+    - Na atmosfera existem vários componentes que difundem a luz em
+      todas as direções (moléculas, partículas sólidas de poeira e
+      fumaça), causando uma extinção contínua, em todos os λ.
+    - A extinção é tão maior que a quantdade de ar 
+
+    A: informação viaja no máximo à valocidade = c!
+
+    - O espalhamento da radiação depende do λ da radiação e do tamanho
+      das partículas.
+    - Se o tamanho da partícula for muito maior que o comprrimento das
+      hondas de radiação (d >> A), o espalhamento é independente
+
+    - O corte em λ maiores (faixa kHz e MHz) se dá por reflexão crítica
+      na ionosfera (camada da atmosfera acima de 100 km), onde há ata
+      densidade de elétrons livres a íons As ondas de ráfio não podem
+      panetrar neste plasma porque sua baixas frequências estão abaixo
+      da frequência de plasma natural da ionosfera.;
+
+* Distribuição da radiação
+    - Um bojeto qualquer não importa o tamanho, forma, composiçõa ou
+      temperatora) emite a radiação em múltiplos comprimentos de onda ou
+      frequências e como descrever magneticamente 
+    - Essa energia 
+
+    - A energia eletromagnética só pode se propagar em quantas discretos
+      (fótons), cada um com uma dada energia (Planck, 1858-1947).
+    - Determinou a constante E = hν, com h = constante de Planck
+
+    - A intensidade específica num dado λ (ou ν) não depende de qualquer
+      propriedade do corpo a não ser sua temperatura.
+    - Qualquer corpo em equilíbrio termodinâmico emitirá fótons com uma
+      distribuição de comprimento de onda dada pela Lei de Planck.
+
+    - Estudando o comportamento de um objeto que emite / absorce como um
+      corpo negro, se entendo melhor o que acontece com objetos reais
+      (por meio dos desvios com relação ao corpo negro).
+
+    - O compormento de onda em que λ_max = T
+      Propriedades: o comprimento da onda em que a intensidade é máxima,
+      λ_max, varia com a temperatura.
+    - O máximo (e o mínimo) de qualquer função é dado para o ponto em
+      que a derivada é 
+
+    - Relação entre λ_max e temperatura = lei de Wien
+        - Quanto maior a temperatura, maior a intensidade da onda de
+          maior frequência emitida pelo corpo.
+        - Lei de Wien nos diz que quanto mais quente o objeto, mais azul
+          é a sua radiação.
+
+    - Lei de Stefan-Boltzmann
+        - Quando a temperatura de um obkeeto cresce, a sua energia total
+          irradiada cresce rapidamente.
+            - Definindo como fluxo F a energia irradiada por unidade de
+              área a por unidade de tempo que chega a um detecnor
+              (quantidade realmente medida).
+        - Quando a luz é emitida de uam fornte isotrápica (que emite
+          igualmente em todas as direções), ela se expande
+          esfericamente.
+
+        - A energia total irradiada é proporcional à quarta potência da
+          temperatura.
+            - Energia total = energia somada em todos os λ
+            
+                                F = σT^4
+
+              σ = constante de Stefan-Boltzmann
+
+    - A temperatura de uma estrela medida pela lei de Wien (a partir da
+      intensidade em um comprimento de onda), é ligeiramente diferente
+      da sua temperatura edida pela lei de Stefan-Boltzmann (a partir da
+      limunosidade do raio f).
+
+    - Aplicação
+        - Medindo a distribuição de radiação do sol: λmax = 480nm
+        - Lei de Wien : Tw ~ 6000K é a temperatura de brilho
+        - Se supormos Tw ~ Twdd ~ 6000K, então cada metro quadrado do
+          SOl irradia energia na taxa de T^4 = 6.4x1-^7W (64 MW).
+        - Sabendo que o raio do Sol = 700.000km, temos a área total de
+          sua suerfície = 4
