@@ -1,0 +1,164 @@
+Telescópios
+============
+
+* Rádio Astronomia
+    - O intervalo em rádio do espectro eletromagnético é bem maior do
+      que o visível.
+    - A janela atmosféria, em observações na Terra, é muito maior (menos
+      ondas de rádio são bloqueadas pela atmosfera terrestre).
+
+* Rádio telescópios
+    - Construção smilar aos telescópios refletores ópticos
+    - Coletor de radiação
+    - Foco primário
+    - Monos sensível a imperfeições (devido ao grande λ);  não há limite
+      para o tamanho.
+    - Observa-se somente um estreito intervalo de λ(v) a cava vez
+      (mudança de canal).
+
+    - Ex: rádio telescópio de 105m (NRAO - USA): national radio
+          astronomy observatory.
+
+    - Funcionam por meio de pratos coletores que coletam a radiação
+      vinda das estrelas e concentram em um detector no foco primário
+      (que fica no alto da antena).
+
+    - Grandes radiotelescópios → radiofontes muito fracas
+    - Quantidade de energia rádio recebida pela superfície da Terra =
+      10^-12 W. Comparando com visível + IR ~ 10^6 W de qualquer estrela
+      brilhante.
+
+    - Maior rádio telescópio: 300m (Arecibo - Porto Rico).
+
+    - Maior λ = pouca resolução angular (maior difração)
+        - Melhor resolução ~ 1' (1 minuto de arco) no intervlo de λ cm
+
+    - Vantagens:
+        - Pode-se observar 24h por dia
+        - Nuvens, chuva e neve não interferem (λs muito maiores)
+        - Observações em diferentes frequências = diferentes
+          informações.
+
+    - Ex: nebulosa de órion (imagem no visível: estrelas + gás
+      brilhante) superpostas com mapa em rádio (linhas azuis indicam
+      regiões de igual brilho em rádio) - informações sobre o material
+      das zonas "escuras" (emissão no visível obscurecida por gás).
+
+* Interferometria
+    - Combina informaçõa de vários rádio-telescópios como se viessem de
+      um único prato.
+    - VLA (very large array) - Novo México - 27 pratos espalhados ao
+      longo de 30 km.
+
+    - Resolução: pratocujo diâmetro efetivo é igual à maior separação
+      entre os pratos mais distantes.
+    - Ex: uma resolução de poucos segundos de arco pode ser atingida com
+      λ rádio típicas (10 cm) usando dois ou mais pratos separados em 5
+      km de distância máxima conectados eletronicamente. É equivalente a
+      utilizar um rádio-telescópio de 5 km de diâmetro.
+
+    - Maior distância entre os rádio-telescópios - maior a linha de base
+      do interferômetro.
+    - A geometria do array de radiotelescópios é feito para conseguir
+      analisar diversas fontes.
+
+    - ALMA (Atacama Large Milimetric Array)
+        - Projeto do rádio-observatório milimétridco do ESO no Chile:
+          conjunto de 66 antenas para observação na região milimétria
+          (0.6 a 10 mm).
+        - Contém antenas fixas e móveis - essa utilizadas pela
+          possibilidade de dar zoom nos objetos.
+
+    - Interferometria envolve uma combinação de sinais vinds de
+      receptores diferentes
+        - Os detectores estão a distâncias diferentes da fonte de
+          radiação → um mesmo sinal pode ser detectado em fases
+          diferentes (out of step): INTERFERẼNCIA DESTRUTIVA.
+        - Somente quando esão em fase ocorre INTERFERẼNCIA CONSTRUTIVA
+          (in step) → combinados produzem um sinal forte.
+
+    - A "quantidade" de interferência depende da direção do sinal
+        - Análise da intensidade do sinal combinado fornece uma medida
+          precisa da posição da fonte de radição no céu.
+
+    - Princípio da interferometria
+        a. O instrumento soma a luz proveniente de uma mesma fonte que
+           passa por dois pontos separados.
+        b. As ondas dos dois pontos interafem para formar um padrão de
+           franjas de interferência.
+        c. Nas posições me que as cristais das duas ondas coincidem
+           ocorre interferência construtica e franjas brilhantes
+           aparecem (se amplificam).
+           Por outro lado, onde as cristas de uma onda encontram os
+           vales de outra, a interferência é destritiva, formando
+           franjas escuras (se cancelam).
+        d. A variação de intensidade entre franjas brilhantes e escuras
+           apresenta um PERFIL SENOIDAL.
+
+        - Análise do sinal feita por meio de transformada de Fourier:
+          decompõe o sinal senoidal em frequência (comprimento de onda)
+          e intensidade.
+
+    - Interferometria pode ser feita com luz visível
+        - Em geral, são bem mais complicados em termos instrumentais.
+        - Ex: CHARA - Center for High Angular Resolution Astronomy
+              Array de 6 telescópios de 1m de diâmetro → telescópio de
+              300m no Monte Wilson (Califórnia).
+            - Resolução de 0.0002": cálculo de posições, órbitas e raios
+              de estrelas.
+
+* Observatórios no espaço
+    - Observação em outros λs atenuados pela atmosfera terrestre.
+
+    - Astronomia infravermelha
+        - Por meio da radiação IR, pode-se fazer imagens onde a radiação
+          visível é bloqueada.
+
+        - Telescópios também irradiam no IR, a nõa ser que sejam
+          resfriados a temperaturas próximas ao zero absoluto.
+
+        - Exemplos
+            - Splitzer Space Telescope (SST/2003), com detectores
+              resfriados próximo do zero absoluto (com He líquido).
+            - European Heschel Space Observatory (2009-2013), com
+              órbita de 1.5 milhões de km da Terra (no ponto de Lagrange
+              L2). Observa entre 50 e 700 µm.
+            - James Webb Space Telescope Project (previsto para ser
+              lançado em 2018), com 6.5 m de diâmetro.
+
+    - Astronomia UV
+        - Observações no UV devem ser feitas no espaço, posi a atmosfera
+          da Terra absorve quase toda a radiação UV (quase totalmente
+          opaca a λ < 300 nm).
+        - Observa fontes extremamente energéticas (ex: explosões de
+          supernova). Por meio da captação de radiação no UV, é possível
+          estimar, por exemplo, quando ocorreum uma explosão de
+          supernova.
+
+    - Astronomia de altas energias
+        - Raios-X e Raios Gama não podem ser regletidos por simples
+          espelhos como em outros λs: ou passam diretamente ou são
+          absorvidos.
+
+        - Raios-X: podem refletir em ângulos bem RASANTES. Espelhos
+          cilíndricos podem ser construídos de forma a coletar os
+          raios-X que incidem com ângulos rasantes e focá-los para obter
+          uma imagem.
+
+        - Fótons de alta energia são bastante escassos no universo:
+          detectores eletrônicos fazem contagens de cada fóton.
+
+        - Exemplos:
+            - Einstein Observatory (1978-1980): primeiro telescópio de
+              raios-X que foi capaz de formar uma imagem.
+            - ROSAT (Röntgen Satellite: 1991-1999).
+            - Chandra X-ray Observatory (1999-até hoje): maior capo e
+              maior resolução do que os outros (resolução angular de 1",
+              órbita a 1/3 da distância a Lua).
+
+        - Raios Gama não podem ser focados, portanto a resolução angular
+          é muito pobre (1º).
+
+        - Exemplos:
+            - Compton gamma-ray Observatory
+            - Fermi gamma-ray Telescope (2008-até hoje)
