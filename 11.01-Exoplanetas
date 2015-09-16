@@ -1,0 +1,184 @@
+Exoplanetas
+============
+
+* Lembrando: Teoria da contração nebular + teoria da condensação
+  explicam as características do nosso sistema solar:
+
+    - Órbitas dos planetas principais:
+        1. aproximadamente circulares
+        2. no mesmo plano
+        3. na mesma direção da rotação do Sol em torno do seu
+           próprio eixo.
+
+        - Consequência no formato e rotação da nuvem mãe.
+
+    - Crescimento dos protoplanetas por meio da aglomeração de matéria e
+      posterior aquecimento da nebulosa segundo o Sol se torna uma
+      estrela:
+        1. Planetas se encotnram largamente espaçados
+        2. Debris da fase de acreção + fragmentação: asteróides, o
+           cinturão de Kuiper e os cometas da Nuvem de Oort.
+
+    - Entretanto, as teorias são flexíveis no que diz respeiro a
+      detalhes:
+        - Teoria nebular: não necessariamente os planetas devem todos
+          rotar em torno de seu próprio eixo no mesmo sentido.
+        - Teoria da condensação: os encontros randômicos que combinam
+          os planetesimais em protoplanetas.
+
+    - Algumas características do sistema solar que podem ser modeladas
+      por eventos randômicos:
+        - 2 corpos grandes podem ter emergido de Vênus, dando origem à
+          sua rotação muito lenta.
+        - O sistema Terra-Lua podem ter surgido da colisão entre a
+          proto-Terra e um objeeto da ordem do tamanho de Marte.
+        - O eixo de rotação de Urano pode ter sido causado por colisões
+          de dois ou mais protoplanetas na época de sua formação.
+        - A dlua de Urano Micranda pode se sido parcialmente destruída
+          por uma colisão com um planetesimal.
+        - Interações entre os planetas jovianos e um ou mais
+          planetesimais porem explicar algumas irregularidades nas luas
+          destes planetas (movimento retrógrado de Triton (lua de
+          Metuno).
+
+* A procura por planetas extrasolares (exoplanetas)
+    - Possibilidade de vida - astrobiologia
+    - Teste das teorias de formação do sistema solar
+
+    - Planetas extrasolares são muito fracos em brilho e geralmente
+      estão muito próximos às suas estrelas → difícil observação direta.
+    - Algumas poucas dezenas de planetas foram detectados por
+      imageamento direto.
+    - Na figura: planeta tipo Júpiter (5 * Mj) orbitando a 55 UA uma anã
+      marrom, fraca o suficiente para se observar o planeta.
+
+* Medidas indiretas: análise da luz da estrela
+    - Variação na velocidade radial de estrelas
+        - Podemos observar a existência de planetas por conta da
+          flutuação periódica na velocidade radial. Planetas do tamanho
+          de Júpiter podem causar variações significativas.
+        - O Sol varia sua velocidade radial em até 12m/s
+
+    - Calculando a massa do planeta
+        - Lei de Kepler:  (M_sol + m) = a³/P³ (estimativa de 'a')
+        - Leis de Newton: mV²/a = GmM/a² → M_sol = a*V_pl²/G
+                          com v_pl = estimativa da velocidade orbital
+                          do planeta
+
+        - Conservação do momentum linear (estimativa da massa do planeta):
+            p* = p_planeta → m_sol * v_sol = m_pl * v_pl
+
+        - Limite inferior de massa → porqe medimos a componente de
+          velocidade orbital na linha de visada V x sin θ.
+
+    - Mais de 500 planetas foram descobertos por essa técnica
+
+* Medidas indiretas: trânsito
+    - Esse método funciona apenas com uma pequena porcentagem de
+      planetas cujos planos orbitais estejam perfeitamente alinhados com
+      a nossa linha de visada, mas pode ser aplicado mesmo a estrelas
+      muito distantes.
+
+    - Survey de telescópios espaciais para detectar trânsitos.
+        - Missão CoRoT (convenction Rotation and planetary transits;
+          2006-2012): observou 31 okanetas confirmado. Incluindo o
+          1.5m e 1.70m_sol)
+        - Missão Kepler (2009-2013): mais 130 planetas confirmados e
+          2700 aguardam confirmação.
+
+* Observações de exoplanetas
+    - Até agora: 600 planetas extra-solares oficiais.
+                 2700 candidatos orbitando um total de 2500 estrelas.
+    - 10% das estrelas + próximas observadas apresentam planetas,
+    - 20% das estrelas com planetas oficiais (um só planeta massivo) 1/3
+      das candidatas observadas pelo Kepler são sistemas de múltiplos
+      planetas.
+
+    - Massas determinadas por v_rad.
+    - 400 planetas extra-solares.
+
+    - Terminologia:
+        - Júpiters: planetas gasosos massivos.
+        - Júpiter quente: encontra-se próximo a estrela-mãe: atmosfera
+          turbulente.
+        - Netunos: planetas gasosos menos massivos
+        - Super-Terras: planetas com 2*Massa_Terra
+                                     < Massa_sol < 10*Massa_Terra
+
+            OBS: teoricamente 10 * Massa_terra representa o limite
+            inferior de massa necessária para que o núcleo planetário
+            rochoso aguregue grandes quantidades de gás nebular
+            tonrndo-se assim um gigante gasoso.
+
+        - Terras: planetas com M < 2*Massa_Terra
+
+    - Método de v_rad não pode medir variações na estrela devido a
+      órbitas de planetas muito pequenos ou muito distantes
+      (mesmo serve para trânsito).
+    - Atenção: bias observacional
+    - Métodos privilegiam objetos mais massivos ou maiores em
+      tamanho que orbitam mais próximos às suas estrelas.
+
+    - Órbitas de planetas extra-solares (muitos estão a 0.15 UA da
+      estrela). Todos estes planetas possuem massa ~ Mj.
+    - Muitos planetas tem alta excentricidade orbital (o que não ocorre
+      com os jovianos do nosso sistema solar).
+
+* Composição química dos exoplanetas
+    - Conseguindo obter MASSA e RAIO → densidade
+    - Estimativa da composição química
+        - No entanto, temos problemas: densidades muito baixas entre
+          1.3 < ρ < 0.2 g/cm³. Inconsistentes com modelos teóricos
+          (menor do que a densidade mais leve de puro H + He).
+        - Possível eplicação: planetas muito próximos às estrelas →
+          calor e efeitos de maré fizeram com que o tamanho destes
+          planetas ficassem maiores que o normal.
+
+    - Somente 25 Terras e Super-Terras tem M e R conhecidos: densidade
+      médias de 0.5 < ρ < 9 g/cm³.
+        - Menor limite de densidade: anãs gasosas: núcleo de rocha /
+          geno e atmosfera de H + He
+        - Maior limite de densidade: composição rochosa: terras
+          comprimidas.
+
+    - 9 planetas candidatos plea Kepler que estão na zona habitável:
+      distantes o suficiente da estrela para possuir água líquida em
+      suas superfícies.
+
+    - Medidas de trânsito: previsã oda posição do planeta na sua fase
+      quarto-crescente / quarto-minguante → espectroscopia IR (neste λ a
+      luz refletida do planeta é indistinguível da luz vinda direta da
+      estrela) → composição química da atmosfera do planeta.
+
+* Comparação com as propriedades do nosso sistema solar com o observado
+  em exoplanetas
+    1. Órbitas coplanares e largamente espaçadas: sistemas com múltiplos
+       exoplanetas também parecem apresentar o mesmo.
+    2. Planetas orbitam na mesma direção da rotação solar: expoplanetas
+       parecem apresentar o mesmo. No entanto, foi achado um Júpiter
+       quente com órbita perpendicular ao eixo de rotação da estrela
+       (possível colisão com outro objeto?)
+    3. Debris como asteroides do cinturão de Kuiper: não dá para
+       observar isso em sistemas extra-solares, mas em estrelas
+       recém-formadas dá para observar um disco de matéria ao redor.
+
+    - Como se formam os planetas do tipo Júpiter quente, se a
+      proximidade com a estrela faria este tipo de formação imrpovável?
+        R. O Júpiter quente poderia ter sido formado em uma órbita mais
+           externa e aos poucos foi aspiralando na direção da estrela
+           por fricção com o disco nebular.
+    
+        - Este efeito continua até o disco começar a ser disperso pela
+          estrela recém nascida. Este processo não inibe a formação
+          posterior de planetas terrestres, no disco interno do sistema
+          solar.
+        - No nosso sistela solar isso não aconteceu porque a formação
+          de Saturno estabilizou a órbita de Júpiter.
+
+* A procura por planetas tipo Terra
+    - Condições para a formação de vda
+        Existência de água líquida na superfície
+        → Planeta na zona habitável
+        → Temperatura superficial entre 0 e 100ºC
+        → Zona habitável
+        → Depende da distãncia e do brilho intrínseco da estrela
