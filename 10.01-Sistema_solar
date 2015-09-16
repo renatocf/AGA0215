@@ -1,0 +1,191 @@
+Visão geral do Sistema Solar
+=============================
+
+* Descobrindo o sistema Solar
+    - Desde os gregos:
+        - Sol
+        - 5 planetas: Mercúrio, Vênus, Marte, Júpiter, Saturno
+    - Cometas (visíveis por algumas semanas)
+    - Meteoros ou "estrelas cadentes"
+
+
+* Mudança no começo do século XVII
+    - Telescópio refrator (Galileo Lalilei)
+    - Fases de Vênus
+    - 4 luas de Júpiter
+    - Anéis de Saturno
+
+* Descobrindo o sistema solar:
+    - Até o final do século XIX:
+        - Descoberta dos planetas Urano (1781) e Netuno (1846)
+    - Outras descobertas:
+        - Luas de outros planetas
+        - Primeiros asteróides 
+            - Conturão de asteróides (ente Marte e Júpiter)
+            - Ceres (1801)
+
+    - Século XX
+        - Crescimento tecnológico dos telescópios óptios
+            - Centenas de asteróides
+            - Anéis em outros planetas
+            - Dezenas de luas
+            - Objetos do cinturão de Kuiper
+                - Orbita além de Netuno
+            - Observações em rádio e IR
+            - Explorações espaciais (lua e Marte, in loco)
+
+* Cinturão de Edgeworth-Kuiper
+    - Muitos dos objetos pertencentes ao cnturão de Kuiper tem sido
+      encontrados em órbitas ao redor de 55 AU do Sol, mas alguns estão
+      em órbitas bem mais distantes.
+
+* Nubem de Oort
+    - Nuvem de cometas e asteroides
+    - Compreende a muitos bilhões de cometas
+    - Origem, junto ao cinturão de Kuiper, de todos os cometas e
+      asteróides do sistema solar.
+
+    - Extensão do sistema solar: 50.000 a 100.000 UA
+
+* Orientação do sistema solar
+    - As órbitas dos plantas principais estão aproximadamente no mesmo
+      plano (eclítica), exceto Mercúrio.
+    - As órbitas são elipses com o CM do sistema solar ocupando um
+      dos focos
+    - Vênus, Terra e Netuno têm órbitas praticamente circulares.
+
+    - Devido a órbitas dos planetas estarem aproximadamente no mesmo
+      plano, é possível observá-los da Terra praticamente em linha reta
+      em algumas situações.
+
+    - A inclinação dos eixos de de cada um dos planetas varia muito
+      (de quase 0º (Mercúrio) a aproximadamente 90º (Urano)
+       a quase 180º (Vênus))
+        - Definimmos como a direção de rotação do eixo do planeta
+          conforme a regra da mão direita. Tomando o sol como
+          referência, podemos definir as inclinações.
+
+* Excentricidade orbital
+    - É uma medida de como uma órbita se desvia de ser circular. Uma
+      órbita perfeitamente circular tem uma excentricidade zero. Números
+      maiores que zero indicam órbitas elípticas, parabólicas e
+      hiperbólicas. Uma excentricidade entre 0 e 1 representa uma órbita
+      elíptica. Uma órbita parabólica tem uma excentricidade igual a 1.
+      Uma órbita hiperbólica tem uma excentricidade maior que 1.
+
+    - Netuno, Vênus e Terra são os planetas com as óbitas menos
+      excêntricas em nosso Sistema Solar. Mercúrio é o planeta com a
+      órbita mais excêntrica do nosso sistema solar.
+
+    - Semi-eixo maior e excentricidade descrevem totalmente o tamanho e
+      formato da órbita.
+        - Periélio: mais próximo do Sol.
+        - Afélio: mais afastado do Sol.
+        
+* Comparação da Terra e planetas
+    - O período de rotação do Sol na sua superfície varia
+      aproximadamente 25 dias no equador até 36 dias nos polos (por
+      conta dele ser gasoso). Chama-se esse tipo de rotação de "rotação
+      diferencial".
+    - O período de rotação negativo representa uma rotação retrógrada.
+
+    - Em geral, os planetas "rochosos" estão próximos do nossos sistema
+      solar, enquanto os gasos estão mais afastados. Essa
+      característica, porém, é mais comum no nosso sistema solar.
+
+* Medindo os planetas
+    - Distância ao Sool: leis de Kepler, escala do sistema solar dada
+      por estimatica da distância por radar de Vênus.
+    - Período sideral orbital: observações das posições dos planetas com
+      o tempo.
+    - Raio do planeta: diâmetro angular.
+    - Massa: leis de Newton (movimento e gravidade), observando o
+      movimento das luas em torno do planeta.
+        - Ex: Júpiter: o período observado te europa em torno de Júpiter
+          é de 3.55 dias. A órbita é ~circular com um raio angular de
+          3.6 minutos de arco (visto da Terra).
+
+    - Massa de planetas sem satélites: por meio de perturbações nas
+      órbitas de objetos próximos (estimativa do potencial
+      gravitacional).
+        - Mercúrio e Vênus produzem perturbações nas órbitas um do
+          outro, assim como na Terra.
+        - Lua produz perturbação da órbita na Terra (como dois orpos
+          orbitando em torno de seu CM).
+        - Descoberta de Netuno: perturbações na órbita de Urano
+        - Hoje em dia: massas podem ser medidas mais precisamente por
+          meio da interação gravitacional com satélites artificiais.
+
+    - Período de rotação: observações diretas do movimento de algum
+      elemento na superfície.
+        - No entanto, alguns planetas são de difícil observação. Para
+          esses casos, é possível medir por meio do efeito Dopler
+          causado ao enviar sinais para o planeta.
+
+    - Densidade média: D = M / (4/3πR³)
+
+* Classificação dos 8 planetas do sistema solar
+
+    - Por composição química:
+        - Planetas terrestres ou rochosos:
+          Mercúrio, Vênus, Terra e Marte
+            - São compostos por rochas e metal, possuindo altas
+              densidades relativas, rotação mais lenta, superfícies
+              sólidas, sem anéis e com poucas luas.
+        - Planetas jovianos ou gasosos:
+          Júpiter, Saturno, Urano e Netuno
+            - São compostos por H e He, possuem baixas densidades,
+              rotação rápida, camadas atmosféricas espessas, anéis
+              e muitos satélites.
+            - Planetas gasosos também têm superfície e atmosfera, que
+              são definidos conforme a densidade.
+
+    - Por tamanho:
+        - Planetas pequenos:
+          Mercúrio, Vênus, Terra, Marte
+            - Possuem diâmetros < 13.000 km
+        - Planetas gigantes ou gigantes gasosos:
+          Júpiter, Saturno, Urano e Netuno
+            - Possuem diâmetros > 48.000 km
+
+    - Por posição relativa ao Sol:
+        - Planetas internos: Mercúrio, Vênus, Terra e Marte
+        - Planetas externos: Júpiter, Saturno, Urano e Netuno
+
+        - O cinturão de asteróides situado entre Marte e Júpiter marca
+          os limites do sistema solar interno e externo.
+            - Os planetas superiores sempre aparecem na "fase cheia"
+
+    - Por posição relativa à Terra:
+        - Planetas inferiores: Mercúrio e Vênus
+            - Mais perto do Sol que a Terra.
+            - Mostram fases do tipo da Lua quando vistos da Terra.
+        - Planetas superiores: Marte, Júpiter, Saturno, Urano e Netuno
+            - Mais perdo da Terra do que do Sol
+
+* Planetas anões
+    - Plutão (lua Caronte, Hydra e Nix)
+    - Eris (lua Dysnomia), Sedna, Quaoar, 2005 FY9, 2003 EL61
+        - Presentes no cinturão de Kuiper
+
+    - Ceres é um planeta anão que se encontra no cinturão de asteróides,
+      entre Marte e Júpiter. Ceres tem um diâmetro de cerca de 950 km e
+      é o corpo mas maciço dessa regiaõ do sistema solar, contendo cerca
+      de 1/3 do total da massa do cinturão.
+        - A composição é parecida com a dos planetas rochosos.
+        - 25% da composição é de água congelada.
+
+    - Definição (segundo União Astronômica Internacional (IUA))
+        - Planeta anão é um corpo celeste situado dentro do sistema
+          solar e que satisfaz 4 condições;
+            1. orbitar ao redor do Sol
+            2. ter massa suficiente para assumir uma situação de
+               equilíbrio hidrostático que o leve a ter forma
+               aproximadamente esférica.
+            3. compartilhar sua órbita com outros corpos de massa
+               semelhante (não são dominantes na sua órbita).
+            4. não é um satélite.
+
+* Numerosos pequenos corpos também habitam o sistema solar
+    - Luas
+    - Asteróides
