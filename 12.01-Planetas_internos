@@ -1,0 +1,321 @@
+Planetas internos
+==================
+
+* Temos dois grandes tipos de planetas: internos e externos
+
+    - Telúricos (internos): Mercúrio, Vênus, Terra, Marte
+        - Superfície sólida, feita de materias rochosos
+        - Núcleo rochoso (Fe-Ni)
+        - Mesmo tamanho
+        - Alta densidade (~5 g/cm³)
+        - Poucos satélites
+        - Vulcões: Vênus, Terra e Marte
+        - Materiais rochosos: Fe, O, Si, Mg, Ni, S
+            - Existe uma correlação entre a atividade tectônica
+              e o tamanho do planeta.
+
+    - Jovianos (externos): Júpiter, Saturno, Urano, Netuno
+        - Constituídos primariamente de H e de He
+        - Núcleo rochoso
+        - Planetas gigantes (>> telúricos)
+        - Baixa desnidade (~1 g/cm³)
+        - Muitos satélites (> 8)
+        - Presença de anéis
+
+    - Para ser um planeta, temos 3 condições:
+        - Gira ao redor de uma estrela
+        - Formato aproximadamente esférico
+        - Órbita dominante (não é um sistema binário)
+
+* Tamanhos relativos
+    - Os 4 planetas terrestres são menores, tem alta densidade média e
+      são formados por materiais rochosos.
+    - Os 4 planetas jovianos são bem maiores, têm baixa densidade média
+      e são formados baxicamente de H e He.
+
+    - Planetas anões (como plutão) e telúricos são diferentes: em geral,
+      os planetas anões são formados essencialmente de gelo.
+
+* O interior dos planetas internos
+    - Vênus e a Terra são parecidos - ambos possuem núcleo interno
+      (sólido), núcleo externo (líquido), manto (que causa tectonismo)
+      e uma crosta (mais espessa em Vênus).
+    - Mercúrio já não tem mais manto - apenas o núcleo e sua crosta
+      sobraram, e o tectonismo cessou.
+
+* Terra
+    - O interior da Terra
+        - É constituído por uma parte sólida (núcleo interno) envolvido
+          por uma líquida (núcleo externo).
+        - Esta camada lóquida dá origem ao campo magnético terrestre
+          devido aos movimentos de convesção do seu material, que é 
+          eletricamente condutor.
+        - O núcleo externo é composto de ferro metálico e outros
+          elementos (s, Si, O, K e H).
+        - O núcleo interno é composto de ferro e níquel, e é sólido.
+       
+        - O manto terrestre estende-se desde 50 km de profundidade
+          (podendo ser muito menos nas zonas oceânicas) até ~2900 km
+          abaixo da superfície (perto do núcleo).
+
+        - 47% da crosta é constituída por oxigênio. A sua composição é
+          majoritariamente de óxidos combinados, sendo os principais o
+          silício, o alumínio, o ferro, o cálcio, magnésio, potássio e
+          óxidos de sódio. A sílica é o principal componente da crosta.
+        - Pressão na parte inferior: 1.4 x 10^5 atm
+
+        - A crosta oceânica (espessura = 5-10 km) contém essencialmente
+          basalto.
+        - A crosta continental (espessura = 20-70 km) contém
+          makoritariamente granito.
+        - A contra oceânica é mais densa do que a crosta continental, por
+          contem mais ferro.
+
+        - Magnetosfera: região acima da atmosfera, que contém partículas
+          carregadas aprisionadas pelo campo magnético terrestre.
+        - Hidrosfera: contém os oceanos (70% da área superficial total).
+
+    - Atmosfera da Terra
+        - Troposfera
+            - Região onde ocorre a convecção (formação das nuvens)
+        - Estratosfera
+            - Começa o espalhamento da luz azul
+        - Camada de ozônio
+            - Radiação UV absorvida por O3 e N
+        - Mesosfera
+            - Diminuição substancial da temperatura
+        - Ionosfera: parte inferior da magnetosfera
+            - Partículas ionizadas pela radiação solar → elétrons livres
+              (alta condutividade) → ionosfera altamente refletiva a
+              certas ondas de rádio (ex: frequência AM).
+
+    - Céu azul visto da Terra
+        - É causada pela atmosfera: as moléculas do ar desviam os fótons
+          vindos do sol (espalhamento) preferencialmente na frequência
+          azul. A luz vermelha também é espalhada, mas só na direção
+          do Sol.
+
+        - Espalhamento Rayleigh
+            - O comprimento da onda da luz azul é ~ do mesmo tamanho
+              das moléculas de gás do azul, portanto a luz azul é
+              espalhada mais eficientemente
+            - Espalhamento Rayleigh é proporcionala a 1/λ^4
+
+    - Aquecimento da superfície terrestre
+        - Efeito estufa
+            - A luz que não é refletida ou absorvida pelas nuvens atinge
+              a superfície pelas nuvens atinge a superfície da Terra,
+              aquecendo-a. A radiação IR irradiada novamente pela
+              superfície é parcialmente absorvida pelo vapor d'água
+              e CO2 e reirradiada, fazendo com que a temperatura sobre
+              a superfície da Terra aumente.
+            - O efeito estufa mantém o planeta Terra 40ºC mais quente.
+
+        - Como a atmosfera é mantida acima da superfície dos planetas?
+            R: em princípio, por causa da gravidade do planeta
+
+        - Mas se for só a gravidade, como a atmosfera não colapsa na
+          superfície do planeta?
+            R: calor provoca o movimento turbulento das moléculas
+            de gás, fazendo com que a pressão exercida por esse
+            movimento se oponha à gravidade.
+
+        - Colisão com oturas partículas ou objetos da superfície:
+          eventualmente, algumas moléculas podem ultrapassar a velocidade
+          de escape. Por esse motivo, o planeta perde (gradualmente) sua
+          atmosfera.
+            - As partículas, na média, têm uma velocidade. Entretanto, as
+              partículas seguem uma distribuição de velocidade, e as que
+              estão acima da velocidade de escape saem do planeta.
+
+* Lua
+    - Formada por uma crosta mais espessa (60-150 km)
+    - Maria = mares, formados por rochas vulcânicas (basalto) com rochas
+      vulcânicas que ocorreram no período de formação da Lua.
+    - Núcleo de ferro (300 km): T >= 1227ºC.
+    - Crateras: tamanhos entre 50 a 500 km (mais redondas → impacto com
+      ângulo ~ 90º).
+
+    - Origem da Lua
+        - Modelo do impacto gigante
+        - Um objeto de ~tamanho de Marte (Theia) colide com a Terra
+          em formação (ainda não totalmetne sólida).
+        - Theia foi crescendo por aglutinação, escapou do ponto
+          lagrangeano e colidiu com a Terra.
+        - A colisão fez se formar um disco de fragmentos ao redor da
+          Terra, que formou a Lua.
+
+* Mercúrio
+    - Planeta mais próximo do Sol.
+    - Lembra (em aparência), a Lua.
+
+    - Não possui quase atmosfera.
+    - Não possui atividade geológica.
+    - Não possui satélites.
+
+    - Quanto maior o planeta, maior o número de satélites. Estar próximo
+      de uma estrela também diminui as chances de ter satélites.
+
+    - Se um explorador andasse pela superfície de Mercúrio:
+        - Solo parecido com o da Lua (crateras formadas pelo impacto
+          com meteoritos.
+        - Existem escarpas com vários km de altra e centenas de km
+          de comprimento.
+        - O tamanho do Sol, visto da superfície: 2.5 vezes maior
+          que na Terra.
+        - A cor do céu: negra, porque Mercúrio praticamente não tem
+          atmosfera (luz não é dispersa).
+        - Visão de 2 estrelas brilhantes: cor creme: vênus e outra de
+          cor azul, a Terra.
+
+    - O tempo que Mercúrio leva para completar uma rotação é de 59 dias
+      terrestres. Exatamente 2/3 do tempo que leva para completar 1
+      órbita em torno do Sol.
+
+    - A duração de 1 dia (1 dia solar) num planeta é o tempo que o Sol
+      passa duas vezes consecutivas por um dado meridiano.
+    - Os planeteas rotam ao redor de seu eixo em diferentes velocidades,
+      e giram em torno do Sol também com velocidades diferentes, a
+      duração do dia é diferente para cada planeta.
+    - Mercúrio tem rotação lenta e velocidade orbitar rápida → 1 dia
+      solar = 176 dias na Terra.
+    - Meio dia solar (sol nasce e se põe) = 1 ano de Mercírio.
+
+    - Interior de Mercúrio
+        - Sonda espacial Mariner 10: passou a uma distância de ~700km do
+          planeta 3 vezes (1974 a 1975), com 2700 fotografias de 45% do
+          planeta.
+        - Núcleo de Fe parcialmente fundido. Alta densidade média (5.44
+          g/cm³). 60-70% em peso de metal e 30% em peso de silicatos.
+          Isto dá um núcleo com um raio de 75% do raio do planeta.
+
+        - Mercúrio contém bastante crateras de impacto: variam em
+          tamanho desde 100 m a 1300 km.
+        - A bacia Caloris tem 1300 km de diâmetro e provavelmetne foi
+          causada por um projétil com uma dimensão > 100 km. O impacto
+          produziu uma elevação com anéis excêntricos com 3 km de altura
+          e expeliu matéria pelo planeta até uma distância de
+          600-800 km.
+
+        - Pode existir água em Mercúrio?
+            - Podíamos supor que em Mercúrio não pode existir água em
+              nenhuma forma. Tem pouquíssima atmosfera e é extremamente
+              quente durante o dia, mas em 1991 cientistas da Caltech
+              captaram ondas de rádio vindas de Mercúrio e descobriram
+              algumas bastante intensas vindas do pólo norte. A
+              intensidade poderia ser explicada por gelo na superfície
+              ou logo abaixo.
+
+        - Mas pode existir gelo em Mercúrio?
+             - Devido à rotação de Mercúrio ser quase perpendicular ao
+               plano orbital, o pólo norte vê sempre o Sol um pocuo
+               acima do horizonte.
+             - O interior das crateras nunca está exposto ao sol e
+               suspeita-se que está a uma temperatura inferior a -161ºC.
+               A esta temperatura pode ter água provinda de evaporação
+               do interior do planeta, ou gelo trazido para o planeta
+               resultante de impacto de comentas. Estes depósitos de
+               gelo podem ter sido cobertos com uma camada de pó e por
+               isso mostram ainda os reflexos intensos no radar.
+
+* Vênus
+    - Vista a olho nú logo após o Sol nascer ou logo após o Sol se por
+    - Vênus "brilha" muito → albedo = 0.65 → nuvens densas refletem a
+      luz do Sol.
+
+    - Terra e Vênus: planetas irmãos
+        - tamanho, massa, densidade, geologia ativa, atmosfera
+          importante.
+        - 1 ano em Vênus = 225 dias terrestres
+        - 1 dia em Vênus = 243 dias terrestres (rotação lenta)
+        - Rotação retrógrada
+            - Acredita-se que a rotação de Vênus é "ao contrário" por
+              conta de um impacto com um corpo muito massivo, que
+              alterou o sentido de rotação do planeta (a mesma da
+              nebulosa que formou o sistema solar).
+
+    - Se a Terra e Vênus são são parecidos, poderíamos morar em Vênus?
+        - Não!
+        - Pressão na superfície 92x maior que a Terra.
+        - Nuvens compostas por gotas de ácido sulfúrico.
+        - Atmosfera composta 96% de CO2: gera um efeito estufa de 127ºC
+          e sobe para 476ºC a temperatura na superfície
+            - Mais quente que Mercúrio mesmo estando mais longe do Sol!
+        - Vênus é muito seco: maior parte da água teria evaporado devido
+          à sua proximidade com o Sol - aconteceria o mesmo se a Terra
+          estivesse mais próxima do Sol.
+
+    - Atmosfera de Vênus
+        - Composição: Dióxido de Carbono (96%), Nitrogênio (3%)
+        - Vestígios de: dióxido de enxofre, vapor d'água, monóxido de
+          carbono, argônio, neônio, hélio, cloreto de hidrogênio e
+          fluoreto de hidrogênio.
+
+        - A atmosfera mais densa de CO2 de Vênus retém mais radiação
+          infravermelha, aumentando assim a temperatura da superfície.
+
+    - Missões que revelaram a superfície de Vênus:
+        1. Pioner Vênus da NASA (1978).
+        2. Missões Soviéticas Venera 15 e 16 (1983-1984).
+        3. Magalhães da NASA (1990-1994).
+
+    - Superfície
+        - Refeita há ~400 milhões de anos
+        - Topografia: vastas planícies cobertas por correntes de lava
+          (centenas de km) e regiões montanhosas deformadas por
+          atividades geológicas.
+        - Possui crateras de impacto (a maioria < 2 km por causa da
+          atmosfera pesada).
+        - 85% da superfície coberta de rocha vulcânica → ~100.00
+          pequenos vulcões + centenas de grandes vulcões.
+
+* Marte
+    - Atmosfera: também com 96% de CO2, mas com densidade muito baixa
+      (o que diminui o efeito estufa médio).
+
+    - O ar marciano mantém ~1/1000 da água do ar da Terra, mas é o
+      suficiente para condensar, formando nuvens que flutuam a uma
+      grande altitude na atmosfera.
+    - Plaeta vermelho (manchas pretas e calotas polares)
+        1. Influência da poeira (macroscópica) presente na atmosfera
+           marciana que absorve a radiação azul (magnetita (óxido de
+           Ferro)) atmosfera muito tênue para ver o efeito azulado do
+           espalhamento Rayleigh
+        2. Solo contém ferro
+
+    - Marte x Terra
+        - 1 dia em Marte = 1 dia na Terra
+        - Tem estações como a Terra (inclinação do eixo de rotação
+          semelhante ao da Terra).
+        - Água e CO2 congelados nas calotas (camadas de gelo de centenas
+          de metros de espessura) - pode ter existido rios, lagos e até
+          oceanos.
+        - 2 pequenos satélites: Phobos e Deimos (possivelmente
+          asteróides capturados).
+
+    - Atmosfera
+        - Duas regiões de núvens (de água e de CO2)
+
+    - Topologia
+        - Hemisfério norte: planívies extensas de lava → formadas por
+          erupções envolvendo um volume grande de lava. Estes volumens
+          foram espalhados pelos blocos de rocha vulcânica e também
+          pelos meteoritos.
+        - Hemisfério sul: montanhas e crateras. Tem altura média ~5 km
+          mais alto do que as planícies suaves do hemisfério Norte. As
+          regiões escuras de Marte observadas da Terra são as regiões
+          montanhosas do Sul.
+
+    - Vulcões: Monte Olimpo
+        - Maior vulcão (extinto) do Sistema Solar
+        - Altura: 27 km
+        - A história do vulcanismo marcino parece ser mais ativa que
+          a de muitos planetas.
+
+    - Calotas Polares
+        - As calotas variam de tamanho conforme as estações do ano.
+        - Hemisfério Sul: tamanho menor de 400 km e formada por CO2
+          congelado.
+        - Hemisfério Norte: calota formada de água congelada.
+
+    - 
