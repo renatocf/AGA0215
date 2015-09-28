@@ -1,0 +1,368 @@
+Sol
+====
+
+* Propriedades físicas
+    - Definição: uma esfera brilhante de gás mantida por sua própria
+      gravidade e cuja energia é produzida por fusão nuclear no seu
+      centro.
+        - A estrela é sustentada pela chamada "pressão de radiação", que
+          balanceia a gravidade da estrela e mantém a sua estrutura.
+
+    - O Sol é uma estrela típica (classificada como estrela anã), cai
+      dentro do intervalo de estrelas consideradas as mais comuns no 
+      universo.
+        - A massa do Sol e seu tamanho são bem típicos
+        - Estrelas mais pesadas são mais raras
+
+    - Massa: 1.99 * 10^30 kg (332.000 M_terra)
+    - Raio equatorial: 696.000 km (109 R_terra
+    - Densidade média: 1410 kg/m³ (25% da ρ_terra)
+    - Gravidade superficial: 274 m/s? (28 g_terra)
+    - Período de rotação (rotação diferencial):
+        - 25.1 dias solares (equador)
+        - 30.8 dias solares (latitude 60º)
+        - 35.0 dias solares (polos)
+    - Inclinação do eixo de rotação: 7.25º (em relação à eclíptica)
+    - Temperatura na superfície: 5870K
+    - Luminosidade: 3.85 * 10^5 W
+
+
+    - Como medir o raio do Sol
+        - Relação geométrica simples: diâmetro angular → 360º
+                                      diâmetro         → 2π*distância
+        - Diâmetro = (2π*distância*diâmetro angular)/360º
+
+    - Como medir o raio do Sol
+        - Dados: r = distância Sol-Terra
+                 v = velocidade orbital da Terra
+        - Lei de Newton para uma órbita esférica: Fg = GmM/r²
+        - Força centrífuga: Fc = m*a (a = aceleração da Terra)
+            - Sabendo que a = v/t e v = d/t, a = v²/r
+            - Fc = m*v²/r
+        - Igualando a força gravitacional com a centrífuga:
+            mv²/r = GmM/r² → M = rv²/G
+        - Ou, pela 3ª lei de Kepler: M ~ a³/P²
+
+    - Como medir a rotação do Sol
+        - Por meio do movimento das manchas solares
+        - Diferentes velocidades de rotação em posições diferentes
+          indicam que o Sol não é um corpo sólido. O mesmo acontece
+          com os planetas gasosos.
+        - Chama-se ROTAÇÃO DIFERENCIAL.
+
+    * Como medir a temperatura da superfície do Sol
+        - Curva de Plank ou de Corpo Negro
+        - Lei da radiação (lei de Vien):
+            Tw (10³K) = 2900(nm*K) / λmax (nm)
+
+    - Como medir a luminosidade do Sol
+        - Luminosdade é a taxa de energia emitida pelo Sol (energia
+          por segundo) em todas as direções: L = 4πr² * F(r)
+            - F(r) é o fluxo a uma distância r do Sol (energia emitida
+              por área de tempo).
+            - 4πr² é a área da superfície esférica.
+        - Considerando F(r) dado pela lei de Stefan-Boltzmann = σTeff^4,
+          e R = raio do Sol = 700.000 km
+        - Energia total por segundo = luminosidade do Sol = 3.9 * 10^26W
+
+    - Constante solar
+        - Fluxo da radiação luminosa rebebida na Terra
+          (Energia/(área*tempo))
+        - Conhecendo L e a distância Terra-Sol r = 1.5*10^11 m
+        - Et = constante solar = 1379 W/m²
+
+* Estrutura do Sol: Núcleo
+    - Temperatura: ~15*10^6 K 
+    - Densidade: ~150.000 kg/m³ (dens. da Terra = 5500 kg/m³).
+    - Raio: 200.000 km
+
+    - É onde a energia é gerada por FUSÃO NUCLEAR.
+    - Fusão nuclear
+        - Quando dois núcleos de um dado elemento se unem para
+          formar um outro elemento:
+                núcleo1 + núcleo2 → núcleo3 + energia
+        - No centro do Sol ocorre o que chamamos de CADEIA P-P
+          (cadeia próton-próton), a transformação de H em He.
+
+        - Massa(núcleo1 + núcleo2) > Massa(núcleo3)
+            - A diferença de massa que falta deve aparecer na forma
+              de energia segundo a equação de Einstein: E = Δmc²
+            - Equivalência massa-energia: desde que 'c' é um número
+              grande, uma pequena quantidade de massa é equivalente
+              a uma grande quantidade de energia.
+
+        - Lei da conservação de energia e massa: E/m = constante
+        - A massa desaparecida deverá reaparecer sob a forma de
+          energia.
+
+        - Fusão nuclear requer que núcleos de igual carga elétrica
+          cheguem próximos o suficiente para fusionar.
+        - A distâncias da ordem de 10^-15m, a BARREIRA DE COULOMB é
+          ultrapassada, de modo que a FORÇA NUCLEAR FORTE começa
+          agura a atuar (a essas distâncias, Fnf > Femag).
+            - Isso só pode ocorrer se T for extremamente alta
+              (T > 10 milhões de K)
+
+        - 1º fase: 2 prótons 1H colidem violentamente gerando um
+          núcleo de deutério 2H e outras partículas mais leves.
+            - Pósitron e neutrino são liberados quando um próton
+              é transformado em nêutron.
+
+                  .------------------------------------.
+                  | 1H + 1H → 2H + pósitron + neutrino |
+                  '------------------------------------'
+
+        - 2ª fase: 1 deutério 2H colide com 1 próton gerando um núcleo
+          de um isótopo de Hélio 3He (formado por 2p e 1n) e energia
+          sob forma de fótons γ.
+
+              .---------------------------------------------.
+              | 2H + 1H → 3He + energia (raios ou fótons γ) |
+              '---------------------------------------------'
+
+        - 3ª fase: 2 isótipos do hélio 3He colidem gerando um núcleo de
+          Hélio 4He (formado por 2p e 2n), 2 prótons e energia sob a
+          forma de fótons γ.
+
+                  .-------------------------------------.
+                  | 3He + 3He → 4He + 1H + 1H + energia |
+                  '-------------------------------------'
+
+        - Se resumirmos todos o processo, a transformação de hidrogênio
+          em hélio fica:
+
+                 .--------------------------------------.
+                 | 4 * 1H → 4He + raios γ + 2 neutrinos |
+                 '--------------------------------------'
+
+        - A medida que os raios γ gerados no núcleo passar por outras
+          camadas, vão interagindo com outros átomos, sendo absorvidos
+          e re-emitidos em comprimentos de onda cada vez menor (energia
+          cada vez menor).
+            - Essa energia reflete a diferente temperatura do gás
+              em cada camada.
+
+* Estrutura do Sol: zona de radiação
+    - Temperatura: ~7*10^6 K
+    - Densidade: ~15.000 kg/m³
+    - Raio: 300.000 km
+
+    - Energia é transportada por radiação eletromagnética
+        - A temperaturas mais baixas, os elétrons voltam a se ligar aos
+          núcleos atômicos, possibilitando a re-emissão dos fótons
+          absorvidos por átomos. Todos os fótons γ gerados no núcleo
+          foram absorvidos.
+
+* Estrutura do Sol: zona de convecção
+    - Temperatura: ~2*10^6 K
+    - Densidade ~150 kg/m³
+    - Raio: 200.000 km
+
+    - Energia é transportada por convecção
+        - Gás solar mais quente se move fisicamente para cima na direção
+          da superfície e o gás mais frio para baixo, criando um padrão
+          chamado de células convectivas.
+
+    - Células convectivas / de convecção
+        - Vão de 30.000 a 1000 km de extensão.
+
+* Estrutura do sol: fotosfera
+    - Temperatura: ~5800 K
+    - Densidade: ~2 * 10^-4 kg/m³
+    - Raio: 500 km
+
+    - A baixa densidade do gás faz com que a convecção deixe de ser o
+      principal transporte de energia, retornando novamente ao
+      transporte por radiação.
+
+    - A radiação vinda das camadas interiores escapa livremente para
+      fora do Sol, a não ser quando os fótons tem a energia "certa" para
+      excitar os átomos da dotosfera, sendo assmi absorvidos e
+      re-emitidos.
+        - Linhas de absorção vindas da fotosfera nos informa sobre a
+          composição química do Sol.
+
+    - Linhas de Fraunhofer
+
+                    .---------.----------.-----------.
+                    |  linha  | elemento |    λ(Å)   |
+                    |---------|----------|-----------|
+                    | A-banda |   O2     | 7564-7621 |
+                    | B-banda |   O2     | 6867-6884 |
+                    | C       |   H      | 6563      |
+                    | D-1,2   |   Na     | 5896-5890 |
+                    | E       |   Fe     | 5270      |
+                    | b-1,2   |   Mg     | 5184-5173 |
+                    | c       |   Fe     | 4958      |
+                    | F       |   H      | 4861      |
+                    | d       |   Fe     | 4668      |
+                    | e       |   Fe     | 4384      |
+                    | f       |   H      | 4340      |
+                    | G       |  Fe-Ca   | 4308      |
+                    | g       |   Ca     | 4227      |
+                    | h       |   H      | 4102      |
+                    | H       |   Ca     | 3968      |
+                    | K       |   Ca     | 3934      |
+                    '---------'----------'-----------'
+    
+        - Os elementos pesados NÃO foram originados no nosso Sol, mas
+          vieram da nuvem original que o formou. O Sol não tem tamanho e
+          temperatura suficiente para gerar tais elementos.
+
+    - Na direção do centro, vê-se as camadas mais profundas (mais
+      brilhantes).
+    - Contorno mais escuro: vê-se somente as camadas mais frias
+      (fotosfera).
+
+    - Manchas solares
+        - A fotosfera contém MANCHAS SOLARES, que são regiões escuras
+          que, quando observadas no visível, medem cerca de 10.000 km
+          (aproximadamente o tamanho da Terra).
+
+        - As manchas são ligeiramente mais frias do que a fotosfera, por
+          isso aparecem mais escuras.
+        - AS manchas têm um tempo de vida limitado, podendo durar de
+          1 a 100 dias.
+        - As manchas se movem junto com a rotação do Sol, então medindo
+          o deslocamento delas em cada latitude têm-se as velocidade de
+          rotação do Sol.
+
+        - Causa das manchas solares: campo magnético
+            - Linhas de campo magnético:
+                - Emergindo do interior = S (polo sul)
+                - Submergindo na fotosfera = N (polo norte)
+            - Cmapos magnéticos intensos tendem a bloquear o fluxo
+              convectivo de gás quente, tornando as regiões das manchas
+              mais frias.
+            - Manchas sempre surgem aos pares e têm polaridades opostas.
+              Sentidos trocados no hemisfério Norte e Sul.
+
+        - Explicação
+            - As linhas de campo magnético do Sol são distorcidas pela
+              rotação diferencial (efeito combinado com a convecção).
+            - Ocasionalmente as linhas de campo saltam da superfície e
+              voltam novamente à atmosfera, criando um par de manchas.
+            - Se este laço é viso na borda do Sol contra o espaço, é
+              chamado de PROEMINÊNCIA.
+
+        - O ciclo solar
+            - O Sol tem ciclos de atividades da ordem de 11 anos.
+              Durante este período, o número de manchas solares varia.
+            - O plot que mostra o número de manchas solares em cada
+              latitude com o tempo:
+                1. Nos mínimos (começo dos ciclos), as poucas manchas
+                   que são vistas são onfinadas em latitudes de 25º a
+                   30º norte e sul.
+                2. No máximo, a maioria das manchas são vistas ao regor
+                   do equados dentro das latitudes 15º e 20º.
+                3. Nos mínimos (final dos ciclos), as manchas se
+                   encontram dentro de 10º ao redor do equador.
+
+            - O ciclo de manchas segue a variação do capo magnético do
+              Sol. A variação do número de manchas e a mudança de
+              latitude das manchas observadas são consequências do
+              estreitamento e estrangulamento das linhas de campo
+              próximo ao equador.
+
+            - Número de manchas solares que ocorreram nos últimos 4
+              séclos. A peridiciocidade das manchas está longe de ser
+              regular: período varia de 7 a 15 anos.
+                - House um período em que as manchas desapareceram:
+                  mínimo de Maunder.
+
+            - Mínimo de Maunder: ausência de manchas solares no século
+              XVII (1645 até 1715). Parece ter tido correlatção entre o
+              nínimo de Maunder e o período de pequena glaciação (Europa
+              e América do Norte) no final do ano de 1600. A
+              luminosidade do Sol aumenta com o aumento de manchas
+              solares (mas será que foi tão substancial assim?)
+                - O clima da Terra foi fortemente afetado por esse
+                  fenômeno.
+                - Tem sido observada uma certa correlação entre os
+                  períodos de seca e atividade solar. Conexão entre
+                  circulação atmosféria e atividade solar → quanto maior
+                  a circulação, maior o número de tempestades, ou seja,
+                  maior distribuição de umidade.
+
+    - O aspecto granulado constitui o começo da fotosfera, logo acima da
+      zona de convecção - célula de convecção.
+        - Células convectivas podem trazer ao começo da fotosfera gás
+          de T = 2 milhões de K.
+
+    - Jatos de gás que se movimentam por meio das linhas de campo
+      magnético vêm das camadas infeiores da fotosfera (zona convectiva)
+      e podem atingir temperaturas de 2 milhões de K (regiões mais
+      escuras).
+
+* Estrutura do sol: cromosfera
+    - Temperatura: ~4500 K
+    - Densidade: ~2*10^-6 kg/m³
+    - Raio: 1500 km
+
+    - Existe pouca radiação por causa da baixíssima densidade.
+    - Pode ser vista somente durante um eclipse solar total, em que a
+      Lua oculta a fotosfera.
+    - Apresenta cor avermelhada devido a linha Hα (6563 Å) domiar o
+      espectro (H não está ionizado devido à baixa T).
+
+    - Contém regiões chamadas de espículos, que são jatos de gás quente
+      com tempo de vida de alguns minutos somente.  Chegam a altura de
+      7000 km de altura e velocidade de 100 km.
+
+* Estrutura do sol: zona de transição e coroa
+    - A partir da zona de transição (ZT), há um rápido aumento de
+      temperatura.
+        - A partir da zona de transição (ZT) há um rápido aumento de
+          temperatura: ZT (8000K, d = 2*10^-10kg/ m³)
+        - Vento solar: são partículas de gás ejetadas pelo Sol e que se
+          espalham por todo o sistema solar.
+
+    - Durante os breves momentos de um eclipse total, a lua consegue
+      ocultar a cromosfera também, sendo mais claro a visualização do
+      Sol.
+
+    - Temperatura aumenta muito na ZT até alcançar 3 milhões de K na
+      Coroa. Uma proeminência pode ser gerada na fotosfera ou na
+      cromosfera e atingem até a coroa. Proeminência é um jato de gás
+      quente produzido pela deformação do campo magnético pela rotação
+      diferencial do Sol.
+        - Uma proeminência típica mede 100.000 km (10 R_terra), e as
+          menores podem durar dias ou semanas, e as maiores, algumas
+          horas.
+
+    - SOLAR FLARE (ou erupção solar)
+        - É muito mais violenta do que uma proeminência que ocorre na
+          superfície do Sol (cromosfera).
+        - O campo magnético não consegue aprisionar as partículas
+          ejetaadas como acontece na proeminência.
+        - FLares podem atingir temperatras de 100 de lhoões de K.
+
+    - EJEÇÃO DE MASSA DA COROA (A BOLHA)
+        - Algumas vezes na semanauma bolha gigante magnetizada de gás
+          ionizado se separa do SOl e escapa do espaço interplanetário.
+        - Se uma bolha encontrar a Terra, causa um rompimento da
+          magnetosfera terrestre, fazendo com que haja interruções nas
+          comunicações e energia.
+
+* Estrutura do sol: vento solar
+    - A distâncias maiores a Coroa se transforma no vento solar, que são
+      partículas de gás ejetadas do SOl e que se espalham por todo o
+      sistema solar.
+    - O vento carrega, a cada segundo, cerca de 1 milhão de toneladas de
+      gás quente (100.000 K) e eletricamente carregado.
+    - Velocidade do vento: 300.000 km/s
+    - Densidade: 1-10 partículas / cm ³.
+
+    - Composição prótons (1H), núcleo de Hélio (2He) e elétrons. 0.1% do
+      vento é composto por íons de C, N, O, Ne, Mg, Si, Fe, etc.
+
+* Vento solar
+    - Ventos vão até distâncias imensas → 85 UA (Voyager 1)
+
+    - Partículas carregadas chocam-se com a magnetosfera da Terra,
+      provocando um movimento de tais partículas na direção dos polos.
+    - O choque com a atmosfera excita o gás atmosférico, que ao voltar
+      ao estado fundamental emite luz produzindo as AURORAS POLARES.
+
+    - A maior parte da luz é produzida pelo OI (6300Å), apresentando uma
+      cor bem avermelhada.
