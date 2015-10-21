@@ -1,0 +1,179 @@
+Formação estelar
+=================
+
+* Evidências de formaçãoestelar recente → nebulosas de emissão excitadas pela
+  radiação de estrelas jovens e quentes.
+    - Formação de estrelas na nossa Galáxia ainda continua existindo.
+
+* Sítios de formação estelar estão no plano do disco da galáxia.
+
+* Regiões de formação estelar também são observadas em muitras outras galáxias
+  também:
+    - Nebulosa de emissão gigante de 500 pc de extensão pertencente à galáxia
+      M33 (M33 está a 1 milhão de pc da nossa galáxia).
+
+* Como ocorre a formação de uma estreal a partir de uma nuvem de gás frio?
+
+    1. Nuvem fria colapsa sob seu próprio peso
+    2. Durante o colapso ocorre fragmentaçõa
+        - Diferentes regiões se contraem / expandem a difernetes ritmos
+    3. Os fragmentos continuam a bolapsar e começam a esquentar à medida que vão
+       contraindo.
+    4. Eventualmente, a temperatura do centro de cada fragmento alcança um valor
+       alto o suficiente para começar a reação de fusão nuclear.
+    5. Contração para e as estrlas nascem.
+
+    - Atenção: todo este processo ocorre somente se a massa de cada fragmento
+      for grande o suficiente.
+
+    - Os átomos de uam nuvem fria de gás (100K) estão em movimento (= agitação
+      térmica).
+    - Quando ocorre um encontro de alguns átomos, eles tendem a ser atraídos
+      pela sua força gravitacional.
+    - Depois de algum tempo (dependendo das condições), os átomos acabam se
+      agrupando.
+    - Mas se a força gravitacional não for grande o suficiente para mantê-los
+      ligados, a sua agitação térmica tende a dispersá-los novamente.
+
+    - Colapso gravitacional
+        - Considerando (caso ideal) uma nuvem de baixa densidade, temperatura
+          uniforme e equilíbrio hidrostático.
+        - Uma perturbação aleatória produz uma região de maior densidade: ação
+          gravitacional e pressão aumentam.
+
+        - Possíveis origens da perturbaçÕ: onda de choque causada pela explosão
+          de supernova; passagem de uma onda de densidade (braços de espirais).
+
+        - Para descrever uma nuvem de gás formada por N partículas, podemos
+          partir do TEOREMA DE VIRIAL, onde:
+
+            1/2*d²I/dt² = 2K + U
+            ^^^^^^^^^^^   ^^   ^
+                 |        |    '- energia do meio
+                 |        |
+                 |        '- energia cinética do gás
+                 |
+                 '- variação da distribuição da massa de um corpo
+                    em torno de um eixo de rotação
+
+        - Supondo que as partículas da nuvem estejam em equilíbrio (momentum de
+          inércia não varia com o tempo): 2K + U = 0.
+
+        - A energia cinética total de um conjunto de N partículas pode ser
+          representada pela energia térmica de um gás ideal a uma temperatura T:
+
+                            K = 3/2 * N * kb * T
+                                      ^   ^^   ^
+                                      |   |    '- temperatura
+                                      |   '- constante de Boltzmann
+                                      '- número de moléculas
+
+        - A quantidade de partículas pode ser representada por:
+                            
+                            N = M/m = M/µm_u
+
+          µ = peso molecular médio ou massa molecular relativa (massa de uma
+              molécula relativa a unidade de massa atômica u.m.a)
+
+          m_H = masa do hidrogênio = 
+
+        - A energia cinética total será: K = 3*kb*T*M/2µm_H
+
+        - Considerando uma esfera de raio R, formada por camadas
+          de espessura dr:
+            - Para cada camadas, temos:
+                - Volume     = 4πr²rdr
+                - Densidade  = ρ(r)
+                - Massa      = 4πr²ρ(r)dr
+
+        - Supondo densidade constante:
+
+            M(r) = 4/3πr²ρ
+
+            dU = -G(4/3πr³ρ)(4πr²ρdr)/r
+               = -16Gπ²ρ²/3 * r^4dr
+
+            Integrando sobre toda a esfera:
+
+            U = -16Gπ²ρ²/3 * ∫(0,R) r^4dr = -16Gπ²ρ²/3 * R^5/5
+
+        - Considerando a densidade constante:
+
+            ρ = M/(4/3πr³)
+
+        - Então: U = .3/5(GM²/R)
+
+        - Substituindo as expressões para K e U no teprema de virial:
+
+                33kb*T*M
+
+* Estágios de formação de uma estrela
+
+    - Estágio 1: Nuvem interestelar
+        - As condiçõs melhores para se formar estrelas são encontrados nos
+          centros de nuvens escuras de gás, de poeira ou moleculares.
+        - Estas nuvens são bastante grandes (~10^15 km), possuem temperaturas da
+          ordem de 10K e densidades de 10^9 partículas / m³.
+
+        1. Uma massa grande da nuvem começa a se contrair.
+        2. Devido a instabilidades gravitacionais, esta massa grande pode se
+           fragmentar em pedaços menores.
+        3. Cada um dos fragmentos podem colapsar e continuar a fragmentar, e
+           eventualmente formar dezenas ou centenas de estrelas.
+        4. Este estágio leva poucos milhões de anos.
+
+        - Todas as estrelas formam-se em grupo. Quando se encotnram isoladas
+          como o Sol, por exemplo, provavelmente escaparam de seu grupo por um
+          desbio na sua órbita por algum encotnro com um objeto maior.
+
+    - Estágio 2: o colapso de um fragmento isolado
+        - Nesse estágio, um gragmento que está para se formar numa estrela como
+          o Sol, possui as seguintes características:
+            1. um tamanho de ~100 vezes o sistema solar;
+            2. densidade central é da ordem de 10^12 partículas/m³;
+            3. temperatura central de 100K (colapso isotérmico)
+                - A temeratura na borda do fragmento não difere da nuvem
+                  original (10 K).
+        - O fragmento que colapsa ainda tem a possibilidade de se dividir em
+          mais fragmentos.
+
+        - Este estágio leva uns 30.000 anos.
+
+    - Estágio 3: fragmentação cessa
+        - O processo de divisão para quando a densidade central do fragmento for
+          grande o suficiente para que a radiação produzida pelo calor em seu
+          interior não escape livremente.
+        - As características do fragmnto agora são:
+            1. um tamanho de ~o sistema solar;
+            2. interior opaco à radiação eleva a T central = 10.000K
+            3. densdade central de 10^10 partículas (ainda 10^-9 kg/m²
+                                                     sol = 1410 kg/m³)
+        - Estágio leva uns 100.000 anos.
+
+        - Região central é chamada de proto-estrela.
+        - Formação de de disco permite a acresção de matéria ao núcleo e a
+          continuidade do colapso.
+
+    - Estagio 4: proto-estrela
+        - Sabendo que o raio e a temperatura superficial da proto-estrela, dá
+          para determinar sua luminosidade e colocar no diagrama HR.
+        - A luminosidade da proto-estrela é bem maior que a estrela que ela
+          formará (Sol), porque o tamanho da proto-estrela é bem maior.
+
+        - Duração da fase 4 leva ~1 milhão de anos.
+
+        - Há algumas reações nucleares (ex: D_2(p,γ)³ He [T = 10^5K]), porém a
+          luminosidade da proto-estrela é ainda dominada pela transformação da
+          energia gravitacional em energia térmica a medida que proto-estrela se
+          contrai.
+        - A trajetória vermelha no diagrama HR é o caminho seguido pelo
+          fragmento de nuvem desde o estágio 3 (fragmentação cessa) até o 4.
+          Esta fase é chamada de contração de Kelvin-Helmholtz).
+        - Mesmo com a alta T do centro, a pressão do gás não consegue conter o
+          colapso gravitacional, e a proto-estrela continua a se contrair.
+
+    - Estágio 5:  volução da proto-estrela
+        - A proto-estrela seque de 4s 4 a 6 com uma T superficial
+          Aproximadamente constante e se torna menos luminosa a medida que quer
+          cntroas
+            -  
