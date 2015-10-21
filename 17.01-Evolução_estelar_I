@@ -1,0 +1,271 @@
+Evolução Estelar I
+===================
+
+* Massa de estrelas:
+    - Estrelas massivas: M > 8*M_sol
+    - Estrelas de massa intermediária: 1*M_sol <= M <= 8*M_sol
+    - Estrelas de baixa massa: M <= 1*M_sol
+
+* Marior parte da vida das estrelas → sequência principal (SP)
+
+* Característica da fase de sequência principal
+
+    1) Fusão do H transformando-se em He
+       (expressão usada: queima do H no núcleo)
+
+       Queima = fusão: 4*(1^H) → 4^He + energia + 2 neutrinos
+
+    2) Estrela em equilíbrio hidrostático
+
+    - A gravidade é contrabalanceada pela pressão do gás aquecido
+      pela queima do H.
+
+    - Exemplos: estrela de 1*M_sol → ~10^7  anos na pré-SP
+                                   → ~10^10 anos na SP
+
+    - Estrelas de baixa massa (M << 1*M_sol): não deixaram a SP desde a
+      formação do Universo. É o caso, por exemplo, das anãs M.
+
+* Evolução pós-sequência principal
+
+    - Quando se inicia? H é totalmente consumido no centro da estrela
+        → Começam a ocorrer mudanças estruturais na estrela
+        → Estrela deixa a sequência principal
+
+    - Estágios de evolução pós-SP
+        → dependem da massa
+        → final da vida da estrela
+
+* A evolução do Sol
+    - Nascimento do Sol: composto por H (80%) e He (20%)
+      (abundância do meio interestelar em que o Sol for formado).
+
+    - Estágio atual do Sol (~5 bi anos):
+      Queima do H no núcleo (mais He no núcleo).
+
+    - Futuro do Sol (~10 bi anos)
+      H completamente esgotado no centro (deixa a SP).
+
+    * Estágio 7 (deixando a sequência principal)
+        - P do gás enfraquece, pois não há mais H para fusionar
+          T deve ultrapassar ~10^8 K para haver fusão do He.
+
+        - Estrela perde um pouco o equilíbrio com a força gravitacional.
+
+        - Começa a haver contração no núcleo da estrela.
+
+        - Com a contração no núcleo, T no núcleo e em camadas vizinhas
+          começa a aumentar.
+
+        - H começa a queimar nas camadas vizinhas: pressão do gás
+          aumenta nesta área.
+
+        - Aumenta o raio da estrela.
+
+    * Estágio de 7 a 8 (estrela no ramo das sub-gigantes)
+        - Aumenta o raio da estrela
+            - Camadas + externas resfriam
+            - Temperatura superficial diminui
+        
+        - Diminuição da temperatura superficial e pequeno aumento da 
+          luminosidade.
+
+    * Estágio 8 a 9 (estrela no ramo das gigantes vermelhas)
+
+        - Interior começa a ficar opaco à radiação
+            - Convecção atua como transporte de energia para regiões
+              mais externas.
+            - Com aqueima mais intensa nas camadas mais vizinhas
+              ao núcleo, as camadas + externas se expandem mais e
+              a luminosidade cresce.
+
+        - Temperatura fica aproximadamente constante entre 8 e 9.
+
+        - Densidade na superfície ~10^-3 kg/m³
+        - Densidade média ~5000 kg/m³
+
+    - Estágio 9
+        - Se M_estrela <= (1/4) * M_sol
+            - Núcleo de He encolhe
+            - Camadas externas são ejetadas
+            - Forma uma nebulosa planetária (a partir das camadas
+              externas) + anã branca (antigo núcleo da estrela)
+
+        - Se M_estrela ∈ 1-8 * M_sol
+            - Atinge a temperatura para o começo das reaões de
+              fusão do He (T ~10^8 K)
+
+            - Começa a fusão do He transformando-se em C
+
+                - Processo triplo-alfa (partícula alfa = He)
+                    - 4^He + 4^He → 8^Be + γ
+                    - 8^Be + 4^He → 12^C + γ
+
+                - 8^Be é isótopo altamente instável do Berílio
+                  (leva 10^-12s para decair em 2*4^He). Mas devido à
+                  grande densidade e temperatura no interior estelar,
+                  8^Be fusiona com outro 4^He antes que ocorra o seu
+                  decaimento).
+
+        - Para estrelas de ~1 * M_sol
+            - A pressão dentro do núcleo de He que se opõe ao seu colapso
+              é quase totalmente devido à "degenerescência dos elétrons".
+
+            - Degenerescência = condição da matéria que se encontra
+              ALTAMENTE COMPRIMIDA.
+
+            - Valem o princípio da exclusão e da incerteza:
+                a. Dois elétrons não podem ficar no mesmo estado
+                   quântico (princípio da exclusão de Pauli).
+                b. Princípio de incertesa de Heisenberg: Δp x Δx >= h
+                   (o produto da incerteza na posição de um elétron
+                    e na incerteza no seu momentum linear não pode
+                    ser inferiro à constante de planck).
+
+                - Δx pequeno (separação entre partículas é pequena)
+                  → Δp grande: elétrons com velocidades muito grandes
+                    e ocupando altos níveis de energia.
+
+                1. Para conter o colapso: substituição da pressão
+                   térmica pela pressão de degenerescência (Pd)
+                2. Pd se torna independente de T: reações de fusão
+                   começam a ocorrer (queima instável), T aumenta,
+                   mas a pressão não cresce proporcionalmente
+                   → não há expansão do gás.
+
+                He fusiona explosivamente durante horas até a T atingir
+                um valor alto o suficiente para que a pressão térmica
+                novamente se torne importante.
+
+                - Após a P térmica se tornar novamente importante
+                  → Ajuste para o equiívrio da estrela: o núcleo se
+                    expande e a sua densidade central diminui.
+                  → luminosidade e raio diminuem.
+
+    - Estágio 10 (ramo horizontal)
+        - Queima estável do He: estrela fica um tempo no ramo horizontal
+          ~100.000 anos
+
+        - Posição da estrela no ramo horizontal depende da sua massa
+          restante depois do estágio de gigante vermelha (9).
+
+        - Durante o estágio de gigante vermelha há uma perda significativa
+          de massa da estrela por meio de ventos (20% a 30% de perda de
+          sua massa inicial).
+
+        - Estrelas com massas restantes maiores têm T superficiais
+          mais baixas
+          → lado direito do ramo horizontal
+
+        - Massas restante menores
+          → lado esquerdo do ramo horizontal
+
+        - Luminosidade mantém-se aproximadamente a mesma
+
+    - Estágio 10 a 11 (ramo assintótico das gigantes)
+        - He se esgota rapidamente do ramo horizontal (dezenas de
+          milhões de anos).
+        - Começa a se formar um núcleo inerte de C.
+        - Contração do núcleo: T central aumenta.
+        - Queima de He e H em camadas mais externas.
+
+        - 2ª vez que se expande: ramo assintótico das gigantes
+          (raio do Sol chega à órbita de Marte e talvez Júpiter).
+
+    - Estágio 11 (topo do ramo assintótico)
+        - O núcleo vai se contraindo, a temperatura central cresce mais,
+          mas para estrelas de massa intermediária ela nunca atinge o
+          valor suficiente para queimar o C no núcleo (~600 milhões
+          de Kelvin).
+
+        - Estrela novamente sustentada pela Pd
+
+        - Um pouco de O é formado na parte inferior da camada de
+          queima do He: 12^C + 4^he → 16^O + γ
+
+        - A medida que T cresce mais, as camadas de queima de Hélio
+          experimentam várias séries de queimas explosivas (flashes
+          do He) = pulsos térmicos.
+
+        - Estrela torna-se pulsante = varia seu brilho e raio.
+
+        - As camadas externas da gigante vermelha vão ficando
+          instáveis experimentando uma série de pulsações ocm o raio
+          crescendo cada vez mais.
+
+        - Finalmente as camadas externas da estrela são ejetadas,
+          transformando-se em NEBULOSA PLANETÁRIA.
+            - Esse nome NÃO tem relação com a formação de estrelas.
+              É um nome histórico porque nas primeiras observações
+              desses objetos no espaço, acreditava-se que eles
+              estavam originando novos sistemas solares.
+
+        - t~10^4 anos para a expansão total do gás: tempo de vida
+          de uma nebulosa planetária antes de sua dispersão no meio
+          interestelar.
+
+        - Camdas externas são ejetadas, deixando para trás uma
+          ANÃ BRANCA DE CO.
+
+    - Estágio 12
+        - A estrela agora consiste de duas partes:
+            1. Central: um pequeno núcleo de C-O, quente e denso
+               e ainda muito luminoso. Somente as partes mais externas
+               do núcleo continuam fundindo He para formar C e O.
+            2. Externa: envelope que se expande na fase de gigante
+               e é eventualmente ejetado da estrela.
+
+        - A medida que as parte externas do núcleo se exaurem, o que
+          resta de He
+          → contrai e aumente a temperatura
+          → vai para a esquerda do diagrama HR
+
+        - Núcleo produz radiação UV que ioniza as partes internas
+          da nuvem que se destavou da estrela → nebulosa planetária
+          (espectro parecido com o de ma nebulosa de emissão).
+
+        - NP esféria em 3 dimensões: parece mais brilhante perto
+          da borda (efeito observacional → há mais gás na linha
+          de visada).
+            - A maioria das NPs, entretanto, não são esféricas.
+
+        - Depois de dezenas de milhares de anos, a NP se dispersa
+          no meio interestelar e desaparece.
+
+        - Durante os estágios finais de vida da gigante, reações
+          envolvendo C e He podem criar O, Ne e Mg.
+
+        - Algumas destas reações eventualmente liberam nêutrons, que
+          não possuem barreira coulombiana a transpor, e podem
+          interagir mais facilmente com elementos do núcleo
+          → formação de elementos mais pesados
+
+        - He, C, O, Ne, Mg, etc. são "dragados" do interior para a
+          envoltória que está se expandindo nos estágios finais da
+          gigante → enriquece o meio interestelar destes elementos
+          quando a envoltória é ejetada.
+
+        - Nuvens escuras de poeira ricas em C têm como origem a
+          evolução de estrelas de massa intermediária.
+
+    - Estágio 13 (anã branca)
+
+        - Depois de algumas dezenas de milhares de anos, a NP se
+          dispersa no meio interestelar e desaparece → anã branca
+          fica visível!
+
+        - Tamanho <= Terra (0.01 R_terra)
+        - Massa ~ 1/2 M_sol
+
+        - Estrelas menos massivas do que o Sol: formam anãs brancas
+          de He (não atingem He suficiente para desencadear o processo
+          triplo-alfa).
+
+        - Estrlas intermediárias (mais massivas, ~8*M_sol)
+          formam anãs brancas de Ne-O:
+            12^C + 4^He → 16^O + γ
+            16^0 + 4^He → 20^Ne + γ
+
+    - Estágio 14 (anã negra)
+        - Depois de mais milhares de anos, a anã branca finalmente
+          queima quase todo seu combustível, apagando completamente.
