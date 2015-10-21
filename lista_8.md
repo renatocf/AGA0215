@@ -9,7 +9,7 @@
 04. **(F)** Nebulosas de emissão possuem espectro similar ao de estrelas.
 05. **(V)** A composição química de nuvens escuras pode ser determinadas através de seus espectros de absorção.
 06. **(V)** Frequentemente observa-se nebulosas escuras associadas a nebulosas brilhantes.
-07. **(?)** A linha de 21 cm do H é fortemente absorvida por poeira interestelar.
+07. **(F)** A linha de 21 cm do H é fortemente absorvida por poeira interestelar.
 08. **(F)** Nuvens moleculares são em média mais quentes do que nuvens de gás interestelares típicas.
 09. **(V)** Transições entre diferentes estados rotacionais de uma moléculas produzem radiação no comprimento de onda de rádio.
 10. **(V)** Rotação e campo magnético aceleram o colapso gravitacional de uma nuvem interestelar.
