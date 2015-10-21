@@ -1,0 +1,224 @@
+Evolução Estelar II
+====================
+
+* Estrelas mais massivas que o Sol
+    - Quanto maior a massa da estrela, menor seu tempo de evolução
+      e menor o seu tempo de vida na sequẽncia principal.
+
+    - Comparação
+        - Sol: 10 bi anos na SP
+        - Estrela de 5*M_sol: 100 * 10^6 anos na SP
+        - Estrela de 10*M_sol: 20 * 10^6 anos na SP
+
+    - Menor o tempo de vida nos estágios pós-SP também
+
+* Evolução de estrelas intermediárias (M > M_sol)
+    - Não há flash de He nas estrelas de massa > 2.5 M_sol. Fase de queima do He
+      é sempre estável (não há fases de flash e depois queima estável [ramo
+      horizontal] como nas estrelas de massa da ordem do Sol).
+
+    - Não há fases de núcleo instável: Pd nunca será mais importante que a
+      pressão térmica.
+
+* Evolução de estrelas de diferentes massas
+    - Uma estrela de 4 * M_sol continua no ramo das gigantes quando comeã a
+      reação triplo alfa (He → C).
+    - Não há o salto para o ramo horizontal e a subsequente subida ao ramo das
+      gigantes (ramo assintítico).
+
+    - Estrelas massivas passam para o estágio de supergigante vermelha com a
+      luminosidade aproximadamente constante: aumenta tamanho e diminui
+      temperatura.
+
+* Uma estrela de massa de ordem do Sol nunca atinge a temperatura de fusão do
+  carbono, terminando sua vida como anã branca de C-O.
+
+* Uma estrela massiva tem condições de fusionar elementos mais pesados do que o
+  carbono. Estrelas de massa intermediária mais massivas (M > 8*M_sol) podem
+  eventualmente fusionar C e O (anã branca de Ne-O).
+
+* Quanfo se forma um núcleo inerte de algum elemento químico, começam a
+  acontecer as seguintes fases:
+    a. Contração do núbleo.
+    b. Aumento da temperatura central.
+    c. Reações de fusão em camadas mais externas
+    d. Estrela aumenta de tamanho.
+    e. A partir de uma certa temperatura central, começam as reações de fusão
+       do elemento mais pesado do núcleo.
+
+* Fusão dos elementos mais pesados: modelo "casca de cebola"
+    - Quanto mais para o interior de uma estrela massiva, mais pesado é o
+      elemento que está sendo fusionado e mais pesados são os elementos que
+      estão sendo formados pelas fusões.
+
+    - Cadeia de elementos formados:
+        H → He → C → O → Ne → Mg → Si → Fe
+
+    - A medida que a temperatura central aumenta, as reações nucleares acontecem
+      cada vez mais rápido no núcleo.
+        - Ex: para uma estrela de 20*M_sol
+            H → He → C → O → Si → Fe
+            |   |    |   |   '- 1 semana
+            |   |    |   '- 1 ano
+            |   |    '- 1000 anos
+            |   '- 0.1 milhão de anos
+            '- 1 milhão de anos
+
+* Relemebrando as reações
+    - H → He: cadeia pp (ocorre na SP)
+        4*1^H → γ + positrons + 4^He + neutrinos
+
+    - He → C: reação triplo-alfa (ocorre na pós-SP)
+        3*4^He → 12^C + γ
+
+* P: Por que quanto mais pesado o núcleo, maior a temperatura necessária para
+     a reação de fusão?
+  R: A força de repulsão entre dois núcleos de um elemento é maior quanto mais
+     pesado for o núcleo.
+
+* Outras reações no núcleo
+    - C → Mg: fusão de C (ocorre na pós-SP em estrelas massivas)
+
+    - C + He → O:fusão de C e He (ocorre na pós-SP em estrelas massivas)
+        - Processo chamado de captura alfa
+
+    - P: Qual dessas reações necessita de uma temeratura mais alta?
+      R: fusão de C = 1000 milhões de K
+         fusão de C e He = 600 milhões de K
+
+    - A medida que a estrela evolui, elementos mais pesados tendem + a se formar
+      por meio da captura de He ao invés de fusão de núcleos iguais.
+
+    - Da mesma forma:
+        16^O + 4^He → 20^Ne + energia
+      Será mais provável que:
+        16^O + 16^O → 32^S + energia
+
+    - Elementos mútiplos de 4 são mais abundantes:
+        4^He, 12^C, 16^O, 20^Ne, 24^Mg, 28^Si
+
+    - Mas a medida que núcleos de diferentes espécies são formados, mais tipos
+      diferentes de reações acontecem.
+
+    - Núcleos atômicos são formados por:
+        a. Absorção de prótons: transformam-se em outro elemento químico.
+        b. Nêutrons livres: isótopos de um mesmo elemento (número de massa
+           diferente).
+
+        - Ex: Fluor-19, Sódio-23, Fósforo-31, etc.
+
+    - Mas captura de He é mais comum em estrelas
+        - Fontes de núcleo de He = fotodesintegração
+        - Quebra (fissão) de núleos mais pesados por fótons de alta energia.
+
+    - Elementos pesados vãos sendo quebrados. Outros elementos vão sendo gerados
+      por captura de He.
+        - Processo alfa (+1 4^He em cada formação):
+            Si-28 → Sn-32 → Ar-35 → Ca-40 → Ti-44 → Cr-48 → Ní-56
+
+    - Processo alfa tabém levam a formação de Fe no núcleo
+        - Decaimento beta (n → p + e- + νe)
+            Ni-56 → Co-56 → 56-Fe
+
+    - Núcleo estável, o nênutron não decai. Um nêutron livre pertence a um
+      núcleo que tem muito mais nêutrons do que prótons, pode decair emitindo
+      uma partícula beta e um neutrino.
+
+* Final de vida de uma estrela massiva: supernova tipo II
+    1. Toda reação de fusão nuclear libera energia, mas quando o 56^Fe é formado
+       não pode mais ser fusionado para formar outro elemento mais pesado e
+       liberar energia.
+
+    2. O núcleo de 56^Fe começa a crescer, mas é um núcleo inerte, sem queima. A
+       partir de um limite, a pressão do gás não sustenta mais a estrela e ela
+       começa a IMPLODIR.
+
+    3. A temperatura central atinge 10 bilhões de K. Fótons atingem altíssimas
+       energias - o suficiente para quebrar o Fe em núcleos mais leves e, por
+       fim, quebrar (fissão) estes núcleos mais leves em prótons + nêutrons
+       (fotodesintegração).
+
+    4. Fotodesintegração: absorve energia (fótons) → o núcleo diminui a sua
+       temperataura e consequentemente refuz a pressão do gás → o colapso
+       acelera.
+        
+       O núcleo agora consiste somente de partículas elementares: prótons,
+       nêutrons e elétrons.
+
+    5. Com o colapso, a densidade central cesce ainda mais (100 ton/cm³).
+       Prótons e elétrons são pressionados, gerando a reação:
+
+                prótons + elétron → nêutron + neutrino
+
+       Esse processo é chamado de NEUTRONIZAÇÃO DO NÚCLEO.
+
+    6. Neutronos (partículas que carregam algumas energia) escapam para fora da
+       estrela → núcleo resfria ainda mais → pressão diminui ainda mais →
+       colapso aumenta ainda mais.
+
+    7. Durante o colapso, o núcleo pode atingir densidades ~ 1000 mi ton/cm³.
+       Tais altas densidades centrais faz o núcleo parar a compressão e expandir
+       violentamente.
+
+    - Todo o processo de 1 até 7 leva 1 segundo para acontecer.
+
+    8. A expansão violenta do núcleo gera uma ONDA DE CHOQUE que carre as
+       camadas externas da estrela e as expluas a valocidade de dezenas de
+       milhares de km/s: temos uma explosão.
+
+    - P: Mas num evento SNII, a estrela explode totalmente ou deixa um
+         remanescente?
+      R: Deixa um remanescente, que vai ser um objeto compacto:
+         1. Se a estrela massiva tiver M < 25*M_sol - estrela de nêutrons
+         2. Se a estrela massiva tiver M >= 20*M_sol - buraco negro
+
+* Resumindo:
+          .-------------------------------------------------------------.
+          | Estágios dinais de evolução de objetos de diferentes massas |
+          |===============================.=============================|
+          |     Massa inicial (M_sol)     |        Estágio final        |
+          |-------------------------------|-----------------------------|
+          |            < 0.08             |      Anã marrom de H        |
+          |          0.08 - 0.25          |      Anã branca de He       |
+          |          0.25 - 8             |      Anã branca de C-O      |
+          |            ~8 - 12            |      Anã branca de Ne-O     |
+          |             ~> 12             |        Supernova            |
+          '-------------------------------'-----------------------------'
+
+    - Intervalo depende bastante da quantidade de massa que a estrela perde aós
+      a sua SP.
+
+* Evolução do diagrma HR de um aglomerado de estrelas
+    - Aglomerados de estrelas: são estrelas que nasceram praticamente ao mesmo
+      tempo na mesma nuvem → ~mesma composição química.
+    - No entento, as estrelas formadas possuem massas diferentes (distribuição
+      das masssas).
+
+    - Logo que o aglomerado se forma, estrelas de baixa massa estão recé
+      entrando na SP.
+
+    - Em 10mi de anos: as estrelas mais massivas (tipo O) deixaram a SP. Muitas
+      estrelas eventualemnte devem ter explodido como SNII, mas uma ou duas
+      podem estar visíveis como supergigantes vermelhas.
+        - Temos um corte na parte superior da SP
+        - Região de gigante vermelha quase não aparece
+
+    - Em 100 milhões de anos: estrelas mais brilhantes do que B5 (~4 a 5 M_sol)
+      saíram da SP. Maior parte das estrelas de baixa massa chegaram na SP.
+      Luminosidade do aglomerado dominada por estrelas do tipo B da SP e
+      gigantes vermelhas mais brilhantes.
+        - Um pouto mais gigantes vermelhas aparecem.
+
+    - Em 1 bilhão de anos: a massa de 'turnoff' de SP é de ~2 M_sol → tipo
+      espectral A2. Os ramos das subgigantes e didantes começam a se tornar mais
+      visíveis.
+
+    - Em 10 bilhões de anos: a massa de 'turnoff' da SP é de ~1 * M_sol → tipo
+      espectral G2. Aparecem o ramo horizontal e o ramo assimtótico das
+      gigantes.
+
+    - Aparecem mais estreelas de baixa massa em um aglomerado, porque estrelas
+      de baixa massa são muito mais prováveis de se formar ao invés de estrelas
+      massivas. Adicionalemnte as estrelasde mais alta massa evoluem mais
+      rápido.
+
