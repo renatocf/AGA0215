@@ -5,7 +5,7 @@
 
 01. **(F)** Novas sempre ocorrem em sistemas binários cerrados.
 02. **(F)** O espectro de uma supernova de tipo II não apresenta evidências de H.
-03. **(V)** C pode fusionar mais facilmente com o He do que com outro C porque existe mais He do que C em estrelas.
+03. **(F)** C pode fusionar mais facilmente com o He do que com outro C porque existe mais He do que C em estrelas.
 04. **(F)** Processos-S é processo no qual todos os elementos pesados a partir do Si são formados.
 05. **(V)** Processos-R ocorrem somente nos primeiros 15 minutos da explosão da supernova de tipo II.
 06. **(V)** Para que ocorra um evento supernova tipo Ia num sistema binário cerrado, é necessário que a massa da anã branca exceda o limite de 1,4 M☉ enquanto agrega massa de sua companheira.
@@ -84,20 +84,20 @@ t_dec = 2*10^-6 / √(0.0199)
 t_dec = 2*10^-6 / 0.14106736
 ∴ t_dec = 14.17 * 10^-6s = 14.17µs 
 ```
-Logo, os múons demoram 14.17µs para decaírem próximos da velocidade da luz.
+Logo, os múons demoram 14.17µs para decaírem próxiTmos da velocidade da luz.
 
-**3. Se a Terra for substituída por um buraco negro de 1 Mⴲ, o que acontecerá com a lua? A lua seria dragada pelo buraco negro?**
+**3. Se a Terra for substituída por um buraco negro de 1 M☉, o que acontecerá com a lua? A lua seria dragada pelo buraco negro?**
 
 Se a Terra fosse substituída por um buraco negro de mesma massa, o seu raio de Schwartzchild seria:
 ```
-r_s = 2GMⴲ/c²
-r_s = 2 * (6.67408 * 10^-11) * (5.97219 * 10^24) / (3 * 10^8)²
-r_s = 2 * (6.67408 * 5.97219 / 3²) * 10^-3
-r_s = 2 * 4.4287 * 10^-3
-r_s = 8.8574 * 10^-3 m
-∴ r_s = 8.8574 mm
+r_s = 2GM☉/c²
+r_s = 2 * (6.67408 * 10^-11) * (1.98892 × 10^30) / (3 * 10^8)²
+r_s = 2 * (6.67408 * 1.98892 / 3²) * 10^3
+r_s = 2 * 1.4749 * 10^3
+r_s = 2.9498 * 10^3 m
+∴ r_s = 2949.8 m
 ```
-Logo, o raio de Schwartzchild de um buraco negro com tamanho de uma massa solar teria pouco menos de 9mm - muito menor que a distância do centro da Terra ao centro da Lua. Como a Lua estaria muito distante do horizonte de eventos do buraco negro, sua órbita se manteria intacta (e os efeitos de maré sobre o satélite seriam reduzidos).
+Logo, o raio de Schwartzchild de um buraco negro com tamanho de uma massa solar teria pouco menos de 2950 m - muito menor que a distância do centro da Terra ao centro da Lua (384.400 km). Como a Lua estaria muito longe do horizonte de eventos do buraco negro, sua órbita se manteria intacta (e os efeitos de maré sobre o satélite seriam reduzidos).
 
 **4. Todo objeto tem seu horizonte de eventos. Define-se buraco negro como sendo um objeto que tem um tamanho igual ao seu próprio horizonte de eventos. O quanto pequeno você deve ficar para se tornar um buraco negro? Como se compara o tamanho obtido com o tamanho de um núcleo atômico (raio = 10^-15 m)?**
 
