@@ -1,0 +1,335 @@
+Cosmologia
+===========
+
+* Implicações da Lei de Hubble
+    - A taxa na qual alguma galáxia se afasta é proportional à distância
+      ≅ lei de Hubble
+
+    - Vel. de recessão = H0 * distância
+                         ^^- constante de Hubble
+
+    - H0 = 65-70h km/s/Mpc
+    - h entre 0.5 e 1 → reflete incerteza na declividade da relação.
+
+* Lei de Hubble
+    - Velocidade de recessão = H0 * distância
+    - Lei empírica: relação encontrada por meio das observações
+
+    - Consequência da lei de Hubble
+        - Universo não é estático, e sim dinâmico
+        - UNIVERSO ESTÁ EM EXPANSÃO
+
+    - Definições decorridas da lei de Hubble
+        - Fluxo de Hubble: hedshift cosmológico (não relacionado à movimento,
+          e sim à expansão do universo).
+
+    - Redshift cosmológico
+        - Ao invẽs de velocidade de recessão, usa-se 'redshift cosmológico Z'
+            - z ≅ (λ_obs - λ_tab) / λ_tab
+
+        - Para 'v' peuqneas, ou seja, z << 1: z = v/c
+
+        - Se a velocidade for próxima da luz, o redshift sai pela equação
+          da velocidade restrita:
+                            1 + z = (1+v/c) / √(1-v²/c²)
+
+        - Conceitualmente, é incorreto falar em VELOCIDADE DE RECESSÃO de
+          galáxias, apesar de se usar frequentemente este termo.
+            - Galáximas se movem COM o universo, e não em relação ao mesmo.
+        - Redshift cosmológico: mede a mudança de tamanho do universo (não
+          relacionado com a velocidade).
+
+        - Mas o que acontece com a luz? Por que o aumento de comprimento
+          de onda (redshift)?
+            - Visão do que aocntece com o fóton: o comprimento de onda se
+              expande como se estivesse preso ao espaço que também se expande.
+
+        - Na verdade, o redshift de um fóton mede o quanto o universo se
+          expandiu desde que ele foi emitido.
+            - P: o redshift medido de um quasar é Z = 5. Qual era o tamanho do
+                 universo na época em que este quasar emitiu luz?
+            - R: Expressão dada pela cosmologia relativista. Relaciona a
+                 variação no comprimento de onda com a variação das escalas
+                 do universo:
+                                    1 + z = R_atual / R
+
+            - Consequência: definição ambígua de distância:
+                - Distância da galáxia quando a mesma emitiu a luz que hoje
+                  observamos?
+                - Distância atual da galáxa? (cálculo desta distância é
+                  dependente do modelo cosmológico adotado).
+
+                - Usa-se: redshift (acima) ou look-back time 
+                                              ^^^^^^^^^^^^^^
+                                     Há quanto tempo o objeto emitiu a
+                                        radiação que medimos hoje
+                - Costuam-se usar mais redshif para expressar tempo.
+
+        - Para velocidades pequenas em relação a da luz: distância atual (em
+          anos luz) ~ look-back time: z ≅ (λ_obs - λv)/λv
+
+        - Para v <= 20%c, vale a equação da relatividade restrita:
+                    1 + z = (1 + v/c)/√(1 - v²/c²)
+
+* O Universo em larga escala
+    - Usa conceitos da mecânica clássica em vez da mecânica quântica.
+
+    - O mapa mostra a maior estrutura conhecida do universo: o Sloan Great
+      Wall. Nenhuma estrutura maior que 300 Mpc é observada.
+
+    - Para montarmos o modelo cosmológico, devemos nos perguntar:
+        - Esta distribuição de matéria observada termina em algum lugar?
+        - Há alguam escala em que o Universo pode ser observado sem
+          estrutura.
+
+        - Deve-se obser estas respostas para se construir os modelos
+          cosmológicos, pois eles necessariamente pressupõem o conhecimento da
+          distribuição de matéria no universo.
+
+    - A maior parte das fontes do mapa são quasares e galáxias à distâncias
+        - Em escalas comparáveis ao comprimento de Hubble, a distribuição
+          e galáxias parece ser homogênea.
+
+    - O princípio cosmológico
+        - Em escalas suficientemente grandes, o Universo é HOMOGÊNEO e
+          ISOTRÓPICO.
+        - Homogêneo: o mesmo em qualquer posição do universo.
+        - Isotrópico: o mesmo em qualquer direção no universo.
+    
+    - O universo parece ser homogêneo:
+        - Qualquer cubo de 300 Mpc parece ser igual a qualquer outro cubo em
+          outra posição em escalas Damaiores do que 300 Mpc.
+
+    - O universo parece ser isotrópico:
+        - Em quaisquer direções tem as mesmas estruturas.
+
+    - Lei de Hubble e o princípio cosmológico.
+        - Mesmo deduzida do nosso referencial, a lei de Hubble não viola o
+          princípio cosmológico.
+        - Cada observador em cada diferente galáxia vê as outras movendo-se
+          com a mesma ocnstante de proporcionalidade H0.
+
+    - Implicações da lei de Hubble
+        - 'Redshift' está relacionado com a distância.
+        - A lei de Hubble mostra muito mais do que a simples estimatia de
+          distância (cálculo do TEMPO DE HUBBLE).
+
+    - Assumindo que a taxa de expansão do universo permaneceu constante no
+      tempo, podemos nos perguntar:
+        - P: Quanto tempo levou para que todas as galáxias chegassem às
+             distâncias atuais?
+        - R: Usando a lei de Hubble, estimamos este tempo por:
+
+            tempo = distância / velocidade = distância / (H0 * distância)
+            ∴ tempo = 1/H0
+
+        - Usando H0 = 65-70 km/s/Mpc, chega-se a:
+          tempo = (15-14)*h^-1 * 10^9 anos!
+
+    - A lei de Hubble implica necessariamente que é ~ (15-14)h^-1 bilhões de
+      anos atrás. "Todas as galáxias estavam reunidas."
+
+    - Este ponto (SINGULARIDADE) expandiu-se num dado tempo fazendo com que as
+      galáxias adquiissem as =
+
+    - O tempo de (15-14)h^01 de anos pode ser considerado quma estimativa da
+      idade do universo! Isto implica que calculando H0 por meio de medidas de
+      redshifts: estimativa da idade do universo!
+
+    - Mas há um erro considerável associado à estimativa de idade, pois:
+      1. Incerteza no valor de H0 (h).
+      2. Assume-se que a velocidade de expansão permaneceu constante no tempo
+         (não houve aceleração ou desaceleração).
+
+      - Conceito mais importante a ser levado em conta: idade do universo
+        é finita → o universo teve um começo.
+
+    - O que significa realmente o big-bang?
+        - Visão errada: uma grande explosão que ejetou matéria formando as
+          galáxias que observamos hoje.
+          → este raciocínio implica que haveria necessariamente um centro e uma
+            borda no Universo.
+
+        - Conceito correto: o Big-Bang envolve tudo: matéria + radiação. Enfim,
+          o próprio universo.
+
+        - Não são as galáxias que se movem de acordo com a lei de Hubble, dentro
+          de um espaço vazio, e sim o próprio Universo está se expandindo!
+
+        - Em t=0, o universo era a própria singularidade!
+
+* Modelo Cosmológico Newtoniano
+
+    - O futuro do universo
+        - Assumindo que a úniva força relevante (além da força de expansão) em
+          lergas escalas é a gravidade, há duas possibilidades para a evolução
+          do universo:
+          1. Pode se expandir eternamente.
+          2. Em algum momento a expansão para e começará a se contrair (colapso
+             do Universo).
+
+        - Quais destes dois caminhos será seguido dependerá da DENSIDADE DE
+          MATÉRIA do Universo.
+
+    - Cosmologia Newtoniana (baseada na mecânica clássica)
+        - Seja uma esfera de universo com uma certa distribuição de galáxias.
+
+        - Somente a distribuição de massa interior ao raio r afetará a dinâmica
+          dos objetos na casca esférica desta região (lei de Birkhoff).
+
+        - Considerando uma galáxia de massa 'm' e movendo-se a uma velocidade
+          'v' do cento de massa de uma distribuição de massa 'M' contida neste
+          raio, tem-se que a energia total do sistema é:
+                        E = 1/2 mv² = - GMm/r = constante
+
+        - Temos:
+            - E > 0 → expansão eterna (universo não ligado)
+            - E < 0 → contração (universo ligado)
+            - E = 0 → limite (universo marginalmente ligado)
+
+        - Usando a lei de Hubble para a velocidade da galáxia localizada na
+          superfície da esfera: v = H0 * d
+
+        - Usando a densidade da distribuição de massa na esfera de raio r:
+          M = ρc * 4/3πr³
+
+        - Substituindo na fórmula de energia para o caso do universo
+          marginalmente ligado:
+
+            1/2 * H0² * mr² - 4Gπ/3 * ρcmr² = 0 ∴ ρc = 3H0²/8πG
+              densidade crítica -----------------------^^^^^^^^
+
+        - Da hipótese do universo marginalmente ligada, sai a efinão de
+          DENSIDADE CRÍTICA ρc:
+
+            - DENSIDADE CRÍTICA (ρc):
+                - Se ρ < ρc → universo em expansão perpétua
+                - Se ρ > ρc → universo vai colapsar
+
+            - Usando H = 70h km/s/Mpc → ρc = 9*10^-27h² kg/m³
+                - Somente 5 átomos de H por metro cúbido
+                - Somente 10% da massa da Via Láctea (incluindo matéria escura
+                  e bariônica) por Mpc cúbico.
+
+    - Equação de evolução do universo
+        - Considerando: M = ρc * 4/3 πr³
+        - A esfera exerce uma força de atração gavitacional sobre uma galáxia de
+          massa 'm':
+                        G = m * d²r/dt² = -GmM(r)/r² = - 4/3πGmρρ
+
+        - Definindo a distância de dois pontos no espaço: r = ξ(t)*r0
+            - ξ(t) = FATOR DE ESCALA (a distância entre dois pontos no universo
+                                      varia no tempo)
+            - r0 = distância em t0 → R0 = R(t0)
+
+            - r(t) = R(t)/R0 * R0 (2)
+
+        - R crescente com o tempo para um universo em expansão. Substituindo
+          (2) em (1) para ficar em função do fator de escala:
+            - r¨ = -4πGρr/3 (1)
+            - R¨ = -4πGρr/3
+
+        - Como ρ = ρ0(R0/R)³, então R¨ = -4πGρ0R0³/3R²
+
+        - Integrando no tempo:
+            R^2 = 8πG*ρ0*R0³/3R + K (3)
+                                  ^- constante de integração
+
+        - Supondo que o universo é descrito pela equação (3) com K=0 e supondo a
+          condição inicial do Big-Bang ta = 0, R(ta) = 0 (pela singularidade):
+
+                            R(t) = (6πG*ρ0*R0³)^1/3 * t^2/3
+
+        - Ou seja, R proporcional t^2/3 → expansão perpétua!
+
+        - Usando a lei de Hubble: R' = H(t) * R
+
+            - H(t) = R'/R = 2/(3t) → a taxa de expansão desacelera,
+                                     expansão perpétua - universo
+                                     marginalmente ligado!
+            - t0 = 2/3 H0^01 → idade atual do universo menor do que
+                               o tempo de Hubble
+
+            - Para H0 = 70h km/s/Mpc, t0 = 9h^-1 bilhões de anos
+
+        - Se definirmos: parâmetro de densidade: Ω0 = ρ/ρc
+
+        - Calculando a densidade de matéria para esse universo?
+                            ρ = 1/6 * πGt²
+
+        - Então: ΑΩ = ρ/ρc = 1/6πGt² * 8πG/3H² = 1
+            - Universo marginalmente ligado implica num universo com ρ = ρc.
+            - Universo crítico: Ω0 = 1.
+
+    - Futuros do universo
+
+        - Universo de densidade limite: a expansão não para nunca, mas tende a
+          desacelerar no infinito (marginalmente ligado).
+        - Universo de baixa densidade: não contém massa o suficiente para deter
+          a expansão (universo não ligado).
+        - Universo de alta densidade: contém massa o suficiente para parar a
+          expansão por causa de um colapso (universo ligado).
+
+        - O universo com densidade alta o suficiente: ρ > ρc
+            - Se a expansão parar num dado momento e o universo começar a se
+              contrair → a radiação observada das galáxias mais próximas
+              começarão a apresentar blueshift (as mais distantes ainda
+              apresentarão redshift, pois a sua luz observada corresponde
+              ao seu passado).
+            - Colisões entre galáxias (e depois de um certo tempo, colisões de
+              estrelas) começarão a se tornar mais frequentes e a temperatura
+              do universo aumentará.
+            - Universo retornará a um ponto (singularidade): Big Crunch
+              (morte quente)
+            - Outra possibilidade: universo com ciclos de expansão e contração.
+
+        - Universo com densidade baixa o suficiente: ρ ≤ ρc
+            - Com a densidade <= ρc: o universo se expandirá para sempre. Num
+              dado momento um obervador aqui da Terra não verá mais galáxias
+              além do grupo local (que está ligado gravitacionalmente).
+            - As estrelas, e portanto, galáxias, evoluirão → o universo começará
+              a diminuir de temperatura (morte fria).
+
+        - Evidências observacionais para a predição do futuro do Universo:
+
+            1. Medida da densidade do universo
+               Densidade crítica que separa os dois futuros:
+               ρc = 9*10^-27*h² kg/m³
+
+               Parâmetros de densidade: Ω0 = ρ/ρc
+
+            2. Medida da densidade de matéria luminosa:
+               Calcula a massa total de galáxias num dado colume do espaço,
+               estimando a velocidade média: ρ_barra = m/V
+
+               Densidade de matéria luminosa calculada: ρ = 10^-28 kg/m³
+
+               Logo: Ω0 = ρ/ρc = 10^-28/9*(10^-27) = 0.01
+
+               Ω0 < 1: Universo deverá expandir eternamente!
+
+            - Mas... e a matéria escura?
+                - Lentes gravitacionais em grande escala
+                - Estimativa da massa de objetos maiores como galáxias e até
+                  aglomerados de galáxias.
+                - A deflexão da luz é causada por um objeto bem maior!
+
+                - Incluindo a matéria escura:
+                  Ω0 = ρ/ρc - 0.2 - 0.3 → Universo ainda em expansão perpétua
+
+        - Outro modo de tentar prever o futuro do universo: estimaticas de
+          redshifts e distâncias pela SNIa (distâncias determinadas
+          independentemente da lei de Hubble).
+
+            - Se o universo está desavelerando → taxa de expansão diminui:
+              objetos mais distantes, isto é, objetos que emitiram sua luz há
+              mais tempo vão estar se afastando mais rápido do que a lei de
+              Hubble prediz (expansão constante).
+
+    - O universo está acelerando!
+        - Galáxias a distãncias maiores parecem estar se afastando mais
+          lentamente do que a lei de Hubble prediz!
+          → inconsistente com o modelo padrão do Big-Bang...
+
+        - Supondo que estes dados sejam corretos, o que estaria acelerando o
+          universo? Hipóteses: constante cosmológica, energia escura...
