@@ -10,7 +10,7 @@
 05. (F) A maior parte das galáxias são espirais.
 06. (V) Galáxias elípticas evoluem para galáxias espirais.
 07. (V) Toda a galáxia é membro de algum aglomerado de galáxias.
-08. ( ) Um aglomerado típico de galáxias contém 1 milhão de galáxias individuais.
+08. (F) Um aglomerado típico de galáxias contém 1 milhão de galáxias individuais.
 09. (V) Supernovas de tipo Ia podem ser usadas para se determinar distâncias de galáxias.
 10. (V) Conforme o observado, a maior parte das galáxias parecem estar se afastando da nossa Galáxia.
 11. (F) O espectro de uma galáxia ativa é bem descrito por uma curva de corpo negro.
